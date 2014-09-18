@@ -4,6 +4,7 @@
 
 - [ ] Vul studentnamen en links naar jullie Github account in
 - [ ] Maak een keuze w.b. tools voor Kanban-bord en tijdregistratie
+- [ ] Vul deze tools aan in de README (*volledige* link naar jullie "projectruimte"), zodat de begeleider dit snel kan terugvinden.
 
 ## Sjabloon voortgangsrapport
 

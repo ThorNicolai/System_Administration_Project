@@ -1,0 +1,10 @@
+# Editor backup files
+.*~
+*~
+
+# Big artefacts
+*.iso
+*.box
+*.ova
+*.vmdk
+

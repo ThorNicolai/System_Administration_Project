@@ -14,34 +14,36 @@
 
 ### Algemeen
 
+[Afbeelding huidige toestand Kanban-bord invoegen]
+
 * ...
 * ...
 
-Voeg link toe naar teamoverzicht tijdregistratie onderverdeeld per deelopdracht
+[Voeg link toe naar teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
 
 ### Student 1
 
 * ...
 
-Voeg link toe naar individueel rapport tijdregistratie
+[Voeg link toe naar individueel rapport tijdregistratie]
 
 ### Student 2
 
 * ...
 
-Voeg link toe naar individueel rapport tijdregistratie
+[Voeg link toe naar individueel rapport tijdregistratie]
 
 ### Student 3
 
 * ...
 
-Voeg link toe naar individueel rapport tijdregistratie
+[Voeg link toe naar individueel rapport tijdregistratie]
 
 ### Student 4
 
 * ...
 
-Voeg link toe naar individueel rapport tijdregistratie
+[Voeg link toe naar individueel rapport tijdregistratie]
 
 ## Wat plan je volgende week te doen?
 

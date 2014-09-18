@@ -1,6 +1,6 @@
 # TODO: aan de slag met het project
 
-## In [[README.md]]:
+## In [README.md](README.md):
 
 - [ ] Vul studentnamen en links naar jullie Github account in
 - [ ] Maak een keuze w.b. tools voor Kanban-bord en tijdregistratie

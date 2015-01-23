@@ -27,4 +27,4 @@
 | student3 |         |              |
 | student4 |         |              |
 
-[link toevoegen naar rapport tijdbesteding voor deze taak]
+[na oplevering van de taak screenshot toevoegen van rapport tijdbesteding voor deze taak]

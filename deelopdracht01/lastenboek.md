@@ -1,24 +1,21 @@
-# Lastenboek Taak 1: (titel)
+## Lastenboek Taak 1: (titel)
 
 * Verantwoordelijke uitvoering: `studentx`
 * Verantwoordelijke testen: `studenty`
-* Kanban-bord: http://trello.com/...
 
-## Omschrijving taak
-
-## Deliverables
+### Deliverables
 
 * ...
 
-## Deeltaken
+### Deeltaken
 
 * ...
 
-## Testplan en -rapport
+### Kanban-bord
 
-(evt. link naar de documenten)
+(schermafbeeldingen van de toestand van het Kanban-bord invoegen elke week voor de samenkomst met de begeleider, tot oplevering van de opdracht)
 
-## Tijdbesteding
+### Tijdbesteding
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |
@@ -27,4 +24,4 @@
 | student3 |         |              |
 | student4 |         |              |
 
-[na oplevering van de taak screenshot toevoegen van rapport tijdbesteding voor deze taak]
+(na oplevering van de taak een schermafbeelding toevoegen van rapport tijdbesteding voor deze taak)

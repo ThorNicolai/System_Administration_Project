@@ -11,5 +11,5 @@
 
 ## Gebruikte tools
 
-* Kanban-bord: http://trello.com/
-* Tijdregistratie: http://toggl.com/
+* Kanban-bord: <http://huboard.com/...>
+* Tijdregistratie: <http://toggl.com/...>

@@ -1,21 +1,21 @@
-## Lastenboek Taak 1: (titel)
+# Lastenboek Taak 1: (titel)
 
 * Verantwoordelijke uitvoering: `studentx`
 * Verantwoordelijke testen: `studenty`
 
-### Deliverables
+## Deliverables
+
+(Som hier de concrete resultaten die van deze opdracht verwacht worden. Verwijder dan ook deze uitleg.)
 
 * ...
 
-### Deeltaken
+## Deeltaken
+
+(Som hier de deeltaken voor deze opdracht op, en link naar de Github issues. Je kan hier ook afhankelijkheden tussen deeltaken vermelden.)
 
 * ...
 
-### Kanban-bord
-
-(schermafbeeldingen van de toestand van het Kanban-bord invoegen elke week voor de samenkomst met de begeleider, tot oplevering van de opdracht)
-
-### Tijdbesteding
+## Tijdbesteding
 
 | Student  | Geschat | Gerealiseerd |
 | :---     |    ---: |         ---: |

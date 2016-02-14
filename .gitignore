@@ -1,8 +1,12 @@
+## .gitignore -- Voeg in dit bestand de namen toe van bestanden die niet in
+## het versiebeheersysteem thuis horen. Tekstpatronen (*, ?, ...) kunnen ook.
+
 # Editor backup files
 .*~
 *~
+*.bak
 
-# Big artefacts
+# Virtual machine files
 *.iso
 *.box
 *.ova

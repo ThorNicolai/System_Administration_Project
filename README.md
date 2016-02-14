@@ -11,5 +11,11 @@
 
 ## Gebruikte tools
 
+(voeg hier links toe naar de tools die jullie gebruiken)
+
 * Kanban-bord: <http://huboard.com/...>
 * Tijdregistratie: <http://toggl.com/...>
+
+## Afspraken ivm communicatie, gebruik tools
+
+(beschrijf hier of in een apart document al wat jullie onderling of met jullie begeleiders afgesproken hebben ivm samenwerken: werkwijze gebruik versiebeheer, kanbanbord en tijdregistratie, voorbereiden weekrapporten, enz.)

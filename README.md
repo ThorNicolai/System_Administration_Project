@@ -11,9 +11,8 @@
 
 ## Gebruikte tools
 
-(voeg hier links toe naar de tools die jullie gebruiken)
+(voeg hier links toe naar de tools die jullie gebruiken voor tijdregistratie onderlinge afspraken, communicatie (vb. Slack), ...)
 
-* Kanban-bord: <http://huboard.com/...>
 * Tijdregistratie: <http://toggl.com/...>
 
 ## Afspraken ivm communicatie, gebruik tools

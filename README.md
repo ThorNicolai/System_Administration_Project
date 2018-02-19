@@ -1,19 +1,19 @@
-# Project 3 Systeembeheer
+# Project 2 System Administration
 
-## Groepsleden
+## Group members
 
-| Naam     | GitHub gebruikersnaam                   |
+| Name     | GitHub username                   |
 | :---     | :---                                    |
-| student1 | [student1](https://github.com/student1) |
-| student2 | [student2](https://github.com/student2) |
-| student3 | [student3](https://github.com/student3) |
-| student4 | [student4](https://github.com/student4) |
+| Thor Nicolaï | [student1](https://github.com/ThorNicolai) |
+| Tommy Veevaete | [student2](https://github.com/TommyVeevaete) |
+| Núria Palacios Vilajuana | [student3](https://github.com/nriapalacios) |
+| Mario Verstraeten | [student4](https://github.com/student4) |
 
-## Gebruikte tools
+## Used tools
 
 (voeg hier links toe naar de tools die jullie gebruiken voor tijdregistratie onderlinge afspraken, communicatie (vb. Slack), ...)
 
-* Tijdregistratie: <http://toggl.com/...>
+* Time Recording: <http://toggl.com/...>
 
 ## Afspraken ivm communicatie, gebruik tools
 

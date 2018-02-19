@@ -4,9 +4,9 @@
 
 | Name     | GitHub username                   |
 | :---     | :---                                    |
-| Thor Nicolaï | [student1](https://github.com/ThorNicolai) |
-| Tommy Veevaete | [student2](https://github.com/TommyVeevaete) |
-| Núria Palacios Vilajuana | [student3](https://github.com/nriapalacios) |
+| Thor Nicolaï | [ThorNicolai](https://github.com/ThorNicolai) |
+| Tommy Veevaete | [TommyVeevaete](https://github.com/TommyVeevaete) |
+| Núria Palacios Vilajuana | [nriapalacios](https://github.com/nriapalacios) |
 | Mario Verstraeten | [student4](https://github.com/student4) |
 
 ## Used tools

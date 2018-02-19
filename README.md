@@ -13,6 +13,7 @@
 (Add links to the tools used for time registration, mutual agreements, communication,...)
 
 * Time Recording: <http://toggl.com/...>
+* Communication: <https://www.whatsapp.com>
 
 ## Agreements regarding communcation & use of tools
 (Describe what has been agreed upon between the students and the mentor regarding working together: method of version control, kanbanboard and time registration, preparing weekreports etc.)

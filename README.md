@@ -10,11 +10,9 @@
 | Mario Verstraeten | [student4](https://github.com/student4) |
 
 ## Used tools
-
-(voeg hier links toe naar de tools die jullie gebruiken voor tijdregistratie onderlinge afspraken, communicatie (vb. Slack), ...)
+(Add links to the tools used for time registration, mutual agreements, communication,...)
 
 * Time Recording: <http://toggl.com/...>
 
-## Afspraken ivm communicatie, gebruik tools
-
-(beschrijf hier of in een apart document al wat jullie onderling of met jullie begeleiders afgesproken hebben ivm samenwerken: werkwijze gebruik versiebeheer, kanbanbord en tijdregistratie, voorbereiden weekrapporten, enz.)
+## Agreements regarding communcation & use of tools
+(Describe what has been agreed upon between the students and the mentor regarding working together: method of version control, kanbanboard and time registration, preparing weekreports etc.)

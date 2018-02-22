@@ -7,7 +7,7 @@
 | Thor Nicolaï | [ThorNicolai](https://github.com/ThorNicolai) |
 | Tommy Veevaete | [TommyVeevaete](https://github.com/TommyVeevaete) |
 | Núria Palacios Vilajuana | [nriapalacios](https://github.com/nriapalacios) |
-| Mario Verstraeten | [student4](https://github.com/student4) |
+| Mario Verstraeten | [MarioVerstraeten](https://github.com/MarioVerstraeten) |
 
 ## Used tools
 (Add links to the tools used for time registration, mutual agreements, communication,...)

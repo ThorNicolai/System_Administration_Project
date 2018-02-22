@@ -12,8 +12,10 @@
 ## Used tools
 (Add links to the tools used for time registration, mutual agreements, communication,...)
 
-* Time Recording: <http://toggl.com/...>
+* Kanban: [Trello](https://trello.com/b/xfqoV4Ol/p2ops-io1)
+* Time Recording: [Plus for Trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf?hl=nl)
 * Communication: <https://www.whatsapp.com>
+
 
 ## Agreements regarding communcation & use of tools
 (Describe what has been agreed upon between the students and the mentor regarding working together: method of version control, kanbanboard and time registration, preparing weekreports etc.)

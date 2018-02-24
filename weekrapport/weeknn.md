@@ -1,14 +1,14 @@
 # Voortgangsrapport week nn
 
-* Groep:
-* Datum:
+* Groep: p2ops-io1
+* Datum: nn/0n/2018
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| student1 |       |           |
-| student2 |       |           |
-| student3 |       |           |
-| student4 |       |           |
+| Thor Nicolaï |       |           |
+| Tommy Veevaete |       |           |
+| Núria Palacios Vilajuana	 |       |           |
+| Mario Verstraeten	 |       |           |
 
 ## Wat heb je deze week gerealiseerd?
 
@@ -21,25 +21,24 @@
 
 [Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
 
-### Student 1
+### Thor Nicolaï
 
 * ...
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Student 2
+### Tommy Veevaete
+* ...
+
+[Afbeelding individueel rapport tijdregistratie]
+
+### Núria Palacios Vilajuana
 
 * ...
 
 [Afbeelding individueel rapport tijdregistratie]
 
-### Student 3
-
-* ...
-
-[Afbeelding individueel rapport tijdregistratie]
-
-### Student 4
+### Mario Verstraeten
 
 * ...
 
@@ -48,10 +47,11 @@
 ## Wat plan je volgende week te doen?
 
 ### Algemeen
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+
+### Thor Nicolaï 
+### Tommy Veevaete
+### Núria Palacios Vilajuana
+### Mario Verstraeten
 
 ## Waar hebben jullie nog problemen mee?
 
@@ -62,17 +62,17 @@
 
 ### Algemeen
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Thor Nicolaï 
+### Tommy Veevaete
+### Núria Palacios Vilajuana
+### Mario Verstraeten
 
 ## Feedback analyseluik
 
 ### Algemeen
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Thor Nicolaï 
+### Tommy Veevaete
+### Núria Palacios Vilajuana
+### Mario Verstraeten
 

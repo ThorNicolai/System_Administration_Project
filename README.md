@@ -9,6 +9,10 @@
 | Núria Palacios Vilajuana | [nriapalacios](https://github.com/nriapalacios) |
 | Mario Verstraeten | [MarioVerstraeten](https://github.com/MarioVerstraeten) |
 
+## Mentor
+
+* Andy Van Maele
+
 ## Used tools
 (Add links to the tools used for time registration, mutual agreements, communication,...)
 

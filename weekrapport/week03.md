@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Thor Nicolaï |    ja   |           |
-| Tommy Veevaete |    ja   |           |
-| Núria Palacios Vilajuana	 |ja       |           |
-| Mario Verstraeten	 |      ja |           |
+| Thor Nicolaï |       |           |
+| Tommy Veevaete |       |           |
+| Núria Palacios Vilajuana	 |      |           |
+| Mario Verstraeten	 |      |           |
 
 ## What did you realize this week?
 ### General

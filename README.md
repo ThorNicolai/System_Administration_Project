@@ -22,3 +22,6 @@
 
 ## Agreements regarding communcation & use of tools
 (Describe what has been agreed upon between the students and the mentor regarding working together: method of version control, kanbanboard and time registration, preparing weekreports etc.)
+
+## Core values and team mission
+The core values of our team are communication, work ethic and quality. Our mission is to achieve a high grade for this course while learning all we can about computer networks.

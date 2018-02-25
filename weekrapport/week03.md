@@ -1,60 +1,66 @@
-# Voortgangsrapport week 03
+# Progressreport week 03
 
 * Groep: p2ops-io1
 * Datum: 26/02/2018
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Thor Nicolaï |       |           |
-| Tommy Veevaete |       |           |
-| Núria Palacios Vilajuana	 |       |           |
-| Mario Verstraeten	 |       |           |
+| Thor Nicolaï |    ja   |           |
+| Tommy Veevaete |    ja   |           |
+| Núria Palacios Vilajuana	 |ja       |           |
+| Mario Verstraeten	 |      ja |           |
 
-## Wat heb je deze week gerealiseerd?
-
-### Algemeen
+## What did you realize this week?
+### General
 
 [Afbeelding huidige toestand Kanban-bord(en) invoegen]
-
-* ...
+(add picture when labs are tested)
+* Made basic configuration of a switch PT (everyone)
 * ...
 
 [Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
 
 ### Thor Nicolaï
-
-* ...
+* Made cheatsheet
+* Made lab 4
+* Created testplan for lab 1
+* Tested lab 2
 
 [Afbeelding individueel rapport tijdregistratie]
 
 ### Tommy Veevaete
-* ...
+* General administration
+* Made lab 1
+* Created testplan for lab 4
+* Tested lab 3
 
 [Afbeelding individueel rapport tijdregistratie]
 
 ### Núria Palacios Vilajuana
-
-* ...
+* Made lab 3
+* Created testplan for lab 2
+* Tested lab 1
 
 [Afbeelding individueel rapport tijdregistratie]
 
 ### Mario Verstraeten
-
-* ...
+* Made lab 2
+* Created testplan for lab 3
+* Tested lab 4
 
 [Afbeelding individueel rapport tijdregistratie]
 
-## Wat plan je volgende week te doen?
+## What are the plans for next week?
+None yet.
 
-### Algemeen
+### General
 
 ### Thor Nicolaï 
 ### Tommy Veevaete
 ### Núria Palacios Vilajuana
 ### Mario Verstraeten
 
-## Waar hebben jullie nog problemen mee?
-
+## What issues do you have?
 * ...
 * ...
 

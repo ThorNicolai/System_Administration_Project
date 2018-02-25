@@ -34,8 +34,10 @@
 |show running-config | shows current config |
 | copy running-config startup-config| saves current config |
 | no ip domain-lookup| keeps router from trying to read bad cdms as hostnames |
-| erase startupconfig | **use after labs to reset router configs** |
-|delete vlan.dat | **use after labs to reset router configs**|
+| write erase | **use after labs to reset  configs** |
+| erase | **second  command to use to reset  configs** |
+| erase startupconfig | **use after labs to reset  configs** |
+|delete vlan.dat | **use after labs to reset VLAN configs**|
 
 ## Initial Configuration (Switches and Routers)
 

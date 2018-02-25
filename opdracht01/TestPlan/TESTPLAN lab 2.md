@@ -32,4 +32,9 @@ of the law.” appears ib the terminal.</li>
 </ul>
 </li>
 </ul>
+Security testing
+
+Check if the routers ask for a password when entering user and privileged EXEC mode. Follow these steps for each router.
+- Open the CLI and verify if the router asks for a password.
+- Enter the “enable” password and verify if the router asks for the password.
 

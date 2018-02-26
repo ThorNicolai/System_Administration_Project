@@ -24,7 +24,7 @@
 * Made cheatsheet
 * Made lab 4
 * Created testplan for lab 1
-* Tested lab 2
+* Tested lab 3
 
 [Afbeelding individueel rapport tijdregistratie]
 
@@ -32,9 +32,9 @@
 * General administration
 * Made lab 1
 * Created testplan for lab 4
-* Tested lab 3
+* Tested lab 2
 
-[Afbeelding individueel rapport tijdregistratie]
+https://imgur.com/a/ME7ZI
 
 ### Núria Palacios Vilajuana
 * Made lab 3

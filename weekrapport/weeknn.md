@@ -1,7 +1,7 @@
-# Voortgangsrapport week nn
+# Progress report week nn
 
-* Groep: p2ops-io1
-* Datum: nn/0n/2018
+* Group : p2ops-io1
+* Date  : xx/0x/2018
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
@@ -10,66 +10,66 @@
 | Núria Palacios Vilajuana	 |       |           |
 | Mario Verstraeten	 |       |           |
 
-## Wat heb je deze week gerealiseerd?
+## What have you realised this week?
 
-### Algemeen
+### General
 
-[Afbeelding huidige toestand Kanban-bord(en) invoegen]
-
-* ...
-* ...
-
-[Afbeelding teamoverzicht tijdregistratie onderverdeeld per deelopdracht]
-
-### Thor Nicolaï
+[Insert/refer to an image of the current Kanban-bord(s)]
 
 * ...
+* ...
 
-[Afbeelding individueel rapport tijdregistratie]
+[Insert/refer to an image indicating the time registeration of each partial task of the assignment]
+
+### Thor Nicolaï 
+
+* ...
+
+[Insert/refer to an image of your individual time registration]
 
 ### Tommy Veevaete
+
 * ...
 
-[Afbeelding individueel rapport tijdregistratie]
+[Insert/refer to an image of your individual time registration]
 
 ### Núria Palacios Vilajuana
 
 * ...
 
-[Afbeelding individueel rapport tijdregistratie]
+[Insert/refer to an image of your individual time registration]
 
 ### Mario Verstraeten
 
 * ...
 
-[Afbeelding individueel rapport tijdregistratie]
+[Insert/refer to an image of your individual time registration]
 
-## Wat plan je volgende week te doen?
+## What are your goals of next week?
 
-### Algemeen
+### General
+### Thor Nicolaï 
+### Tommy Veevaete
+### Núria Palacios Vilajuana
+### Mario Verstraeten
+
+## Can you specify your current issues and problems?
+
+* ...
+* ...
+
+## Feedback technical tutors
+
+### General
 
 ### Thor Nicolaï 
 ### Tommy Veevaete
 ### Núria Palacios Vilajuana
 ### Mario Verstraeten
 
-## Waar hebben jullie nog problemen mee?
+## Feedback analysis tutors
 
-* ...
-* ...
-
-## Feedback technisch luik
-
-### Algemeen
-
-### Thor Nicolaï 
-### Tommy Veevaete
-### Núria Palacios Vilajuana
-### Mario Verstraeten
-
-## Feedback analyseluik
-
-### Algemeen
+### General
 
 ### Thor Nicolaï 
 ### Tommy Veevaete

@@ -1,7 +1,8 @@
-# Testplan taak 1: (titel)
+# Testplan assignment 1: [title]
 
-(Een testplan is een *exacte* procedure van de handelingen die je moet uitvoeren om aan te tonen dat de opdracht volledig volbracht is en dat aan alle specificaties voldaan is. Een teamlid moet aan de hand van deze procedure in staat zijn om de tests uit te voeren en erover te rapporteren (= zie testrapport). Geef bij elke stap het verwachte resultaat en hoe je kan verifiëren of dat resultaat ook behaald is. Kies zelf de structuur: genummerde lijst, tabel, secties, ... Verwijder deze uitleg als het plan af is.)
+[A test plan is an * exact * procedure of the actions you have to perform to demonstrate that the assignment has been completed and that all specifications have been met. A team member must be able to perform the tests and report on them (= test report). Give the expected result for every step that you are taking. Indicate how you can verify whether that result has been achieved. Choose the structure yourself: numbered list, table, sections, ... 
+Delete this explanation when the plan is finished.]
 
-Auteur(s) testplan: NAAM
+Author(s) of the testplan: [Name(s)]
 
 

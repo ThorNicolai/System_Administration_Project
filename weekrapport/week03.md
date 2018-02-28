@@ -26,6 +26,8 @@
 * Created testplan for lab 1
 * Tested lab 3
 
+http://prntscr.com/il0bo7
+
 [Afbeelding individueel rapport tijdregistratie]
 
 ### Tommy Veevaete

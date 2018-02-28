@@ -1,8 +1,5 @@
 ---
 
-
----
-
 <h2 id="documentation">Documentation</h2>
 <ul>
 <li>Added a computer and a switch.</li>

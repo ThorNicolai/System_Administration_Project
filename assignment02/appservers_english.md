@@ -19,7 +19,8 @@ Requirements
  - Easily create the test environment with backend
 	 -  Drupal for LAMP
 	 - Open source ASP.NET application for WISA
- - Reproducible and automatic installationproces of test environmen
+	 - **_Drupal and the other thing are our backends. These run on PHP and on ASP.NET respectively. This doesn't mean much more than that the websites are managed and designed with these applications._**
+ - Reproducible and automatic installationproces of test environment
  -  Reusability
 	 - Scripts useable on different environments:
 	 - On the VM and on a public/private cloud platform

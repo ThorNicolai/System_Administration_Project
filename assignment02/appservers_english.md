@@ -2,6 +2,14 @@
 
 First assignment: Create test environment with Virtualbox VM’s on platforms:
 
+What they want us to do is create 2 test environments for our "customers". The customers want webapplication hosting. So we have to setup web application servers. LAMP and WISA are used for respectively Linux and Windows for webapplications.
+
+A web application is hosted on a server. CentOS and Windows Server are our servers. The "stacks" are the applications that together form the webapplications.
+
+Apache and IIS are the webservers.
+MariaDB and SQLServer are the databases.
+PHP & ASP.Net are the web applications.
+
 **LAMP stack**: **L**inux (CentOS 7 of Fedora Server) + **A**pache + **M**ariaDB + **P**HP
 
 **WISA stack**: **W**indows Server 2016 + **I**IS + **S**QLServer (of eventueel MySQL) + **A**SP.NET

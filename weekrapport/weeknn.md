@@ -23,7 +23,7 @@
 
 ### Thor Nicolaï 
 
-* SAP VM installation & SAP Netweaver ABAP app Server developer edition
+* Working on SAP VM installation & SAP Netweaver ABAP app Server developer edition
 
 * Study ABAP developer edition and installation
 
@@ -37,8 +37,7 @@
 
 * Setup DigitalOcean webserver w/ Drupal
 
-
-*Setup DigitalOcean webserver w/ Drupal
+* Vagrant set up 
 
 [Insert/refer to an image of your individual time registration]
 
@@ -48,7 +47,7 @@
 
 * Set up Windows web application test environment
 
-* SAP VM installation & SAP Netweaver ABAP app Server developer edition
+* Working on SAP VM installation & SAP Netweaver ABAP app Server developer edition
 
 [Insert/refer to an image of your individual time registration]
 
@@ -58,7 +57,7 @@
 
 * Set up Windows web application test environment
 
-* SAP VM installation & SAP Netweaver ABAP app Server developer edition
+* Working on SAP VM installation & SAP Netweaver ABAP app Server developer edition
 
 [Insert/refer to an image of your individual time registration]
 
@@ -74,6 +73,8 @@ and fot a user manual for an ABAP developer who wants to start working with this
 -Produce detailed technical manuals directed to other team members about installation procedures and the used scripts
 
 -Test plans and test reports
+
+
 
 ### General
 ### Thor Nicolaï 

@@ -15,10 +15,17 @@ systemctl enable firewalld
 firewall-cmd --add-service=http --permanent
 systemctl start httpd
 systemctl restart firewalld
+
 echo "Installing PHP..."
-yum install php php-mysql php-pdo php-gd php-mbstring -y
+#Devnote: CentOS standard php installation is 5.4, which is outdated
+#and can't be used with Drupal 8.5. We need ius to install
+#newer versions.
+curl 'https://setup.ius.io/' -o setup-ius.sh
+bash setup-ius.sh
+yum install mod_php56u php56u-cli php56u-mysqlnd php56u-gd -y
 #sudo yum install epel-release -y
 #sudo yum install phpmyadmin -t
+
 echo "Installing MariaDB..."
 yum install mariadb-server -y
 systemctl start mariadb.service
@@ -30,8 +37,3 @@ sudo systemctl enable httpd
 
 echo "The system has set up succesfully."
 echo "After logging in to the system, navigate to /vagrant/ and run the configuration.sh script."
-#Sort of LAMP installed now.
-
-#sudo wget https://ftp.drupal.org/files/projects/drupal-8.4.5.tar.gz
-#tar zxvf drupal-8.4.5.tar.gz
-#sudo mv drupal-8.4.5 /var/www/html/

@@ -31,23 +31,49 @@
 
 ### Tommy Veevaete
 
-* ...
+* Translate Dutch documents to English
+
+* setup file transfer (SFTP) on Droplet for scripts
+
+* Setup DigitalOcean webserver w/ Drupal
+
+
+*Setup DigitalOcean webserver w/ Drupal
 
 [Insert/refer to an image of your individual time registration]
 
 ### Núria Palacios Vilajuana
 
-* ...
+* Studying Powershell
+
+* Set up Windows web application test environment
+
+* SAP VM installation & SAP Netweaver ABAP app Server developer edition
 
 [Insert/refer to an image of your individual time registration]
 
 ### Mario Verstraeten
 
-* ...
+* Studying Powershell
+
+* Set up Windows web application test environment
+
+* SAP VM installation & SAP Netweaver ABAP app Server developer edition
 
 [Insert/refer to an image of your individual time registration]
 
 ## What are your goals of next week?
+-Set up the SAP NetWeaver development environment in VirtualBox
+ender
+
+-Providing manuals on the  technicalsetting up the development environment,
+and fot a user manual for an ABAP developer who wants to start working with this environment.
+
+-Collect All background information that you have collected in order to get started with this assignment
+
+-Produce detailed technical manuals directed to other team members about installation procedures and the used scripts
+
+-Test plans and test reports
 
 ### General
 ### Thor Nicolaï 

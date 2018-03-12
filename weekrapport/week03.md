@@ -5,10 +5,10 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Thor Nicolaï |       |           |
-| Tommy Veevaete |       |           |
-| Núria Palacios Vilajuana	 |      |           |
-| Mario Verstraeten	 |      |           |
+| Thor Nicolaï |  v    |           |
+| Tommy Veevaete |  v    |           |
+| Núria Palacios Vilajuana	 |  v   |           |
+| Mario Verstraeten	 |  v   |           |
 
 ## What did you realize this week?
 ### General
@@ -68,10 +68,20 @@ None yet.
 
 ## Feedback technisch luik
 
+A good start as a team. The necessary work seems to be finished ; the structure of the documentation on GIThub however should be better organised (in general).
+E.g. each testplan has a different name ... 
+
+Lab1: test report ?
+Lab2: documentation?
+Lab3: documentation should not be in pdf
+Lab4: testplan could include steps as pinging the routers, in case the end-to-end tests fail. Test report?
+
+
 ### Algemeen
 
 ### Thor Nicolaï 
 ### Tommy Veevaete
+-> clearly is taking the lead
 ### Núria Palacios Vilajuana
 ### Mario Verstraeten
 

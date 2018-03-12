@@ -23,7 +23,8 @@
 
 ### Thor Nicolaï 
 
-* ...
+*SAP VM installation & SAP Netweaver ABAP app Server developer edition
+*Study ABAP developer edition and installation
 
 [Insert/refer to an image of your individual time registration]
 

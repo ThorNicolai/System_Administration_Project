@@ -2,7 +2,7 @@
 TODO: show sql shows in apache with a webpage with the DB and add login with user vagrant
 
 - Vagrant, VirtualBox are set up on the Windows host system.
-- The lamp.sh and user_input.sh scripts and the vagrant file are present on the system in a folder designed for the test. The files are in https://github.com/HoGentTIN/p2ops-i01/tree/master/assignment02/Linux%20LAMP%20webserver
+- lamp.sh, user_input.sh, vagrantfile and sqltest.php are present on the system in a folder designed for the test. The files are in https://github.com/HoGentTIN/p2ops-i01/tree/master/assignment02/Linux%20LAMP%20webserver
 
 ## Testing
 

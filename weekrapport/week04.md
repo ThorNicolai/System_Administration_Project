@@ -5,8 +5,8 @@
 
 | Student  | Aanw. | Opmerking |
 | :---     | :---  | :---      |
-| Thor Nicolaï |   **    |           |
-| Tommy Veevaete |       |           |
+| Thor Nicolaï |   **   |           |
+| Tommy Veevaete |      |           |
 | Núria Palacios Vilajuana	 |       |           |
 | Mario Verstraeten	 |       |           |
 

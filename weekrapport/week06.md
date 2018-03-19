@@ -48,7 +48,7 @@
 [Insert/refer to an image of your individual time registration]
 
 ### Mario Verstraeten
-- Creating test application WISA
+- working on the PowerShell script for WISA
 
 - Creating test application WISA
 
@@ -78,6 +78,14 @@
 
 ## Feedback technisch luik
 
+LAMP testing document: improvements expected (minor details): 
+- split up "internal set-up procedure" and testing
+- dos2unix should be automatically installed.
+- test-file should not be manually adapted in the process 
+
+WISA: installing Visual Basic just for testing is not the biggest priority now
+
+SAP: further automatisation is the next step.
 
 
 ### Algemeen

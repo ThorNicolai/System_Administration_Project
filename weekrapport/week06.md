@@ -37,7 +37,7 @@
 
 
 ### Tommy Veevaete
-
+-  Created Test Plan for the automation LAMP setup
 
 ### Núria Palacios Vilajuana
 - Set Up Vagrant for Windows
@@ -59,6 +59,7 @@
 - Create a User Manual for SAP
 - Create a User Manual for Vagrant(WISA)
 - Make the Vagrant WISA work.
+- Automatr SAP
 
 
 

@@ -26,7 +26,10 @@ $User = "sqlsvr12ex";
         Import-Module Servermanager
         Add-WindowsFeature NET-Framework-Core
         Write-Output "Installing SQL Server 2014 Express"
-        C:\tempsql\SQLEXPRWT_x64_ENU\setup.exe /ACTION=Install /FEATURES=SQL /INSTANCENAME=MSSQLSERVER /HIDECONSOLE /INDICATEPROGRESS="True" /IAcceptSQLServerLicenseTerms /SQLSVCACCOUNT="NT AUTHORITY\NETWORK SERVICE" /SQLSYSADMINACCOUNTS="builtin\administrators" /SKIPRULES="RebootRequiredCheck"; #/INSTANCEID=$($InstanceId) /SQLSVCACCOUNT="$($User)" /SQLSVCPASSW0RD="$($password)";
+        #C:\tempsql\SQLEXPRWT_x64_ENU\setup.exe /ACTION=Install /FEATURES=SQL /INSTANCENAME=MSSQLSERVER /HIDECONSOLE /INDICATEPROGRESS="True" /IAcceptSQLServerLicenseTerms /SQLSVCACCOUNT="NT AUTHORITY\NETWORK SERVICE" /SQLSYSADMINACCOUNTS="builtin\administrators" /SKIPRULES="RebootRequiredCheck"; #/INSTANCEID=$($InstanceId) /SQLSVCACCOUNT="$($User)" /SQLSVCPASSW0RD="$($password)";
+        C:\tempsql\SQLEXPRWT_x64_ENU\setup.exe /configurationfile="c:\temp\configurationfile.ini" /IACCEPTSQLSERVERLICENSETERMS /QUIETSIMPLE
+        
+        
         $env:PATH = [System.Environment]::GetEnvironmentVariable("Path","Machine")
         #Remove-Item -Recurse -Force c:\tempsql
     } else {

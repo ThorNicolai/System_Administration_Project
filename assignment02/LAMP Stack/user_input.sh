@@ -80,3 +80,15 @@ mysql --user=root <<_EOF_
   GRANT ALL PRIVILEGES ON * . * TO '${username}'@'localhost';
   FLUSH PRIVILEGES;
 _EOF_
+
+# This is for testing purposes only.
+if [ -f "/vagrant/sqltest.php" ]
+then
+	sed -i '1 i\$dbname = '\"${db_name}'";' /vagrant/sqltest.php
+	sed -i '1 i\$dbuser = '\"${username}'";' /vagrant/sqltest.php
+	sed -i '1 i\$dbpass = '\"${password}'";' /vagrant/sqltest.php
+	sed -i '1 i\$dbhost = \"localhost";' /vagrant/sqltest.php
+	sed -i '1 i\<?php' /vagrant/sqltest.php
+	cp /vagrant/sqltest.php /var/www/html
+	sudo service httpd restart
+fi

@@ -31,6 +31,7 @@
 	- dbname
 	- dbuser
 	- dbpass
+- Enter the command "sudo service httpd restart"
 - Browse to http://IP/sqltest.php on your host and verify you get the "There are no tables in $dbname, but SQL works!" message.
 
 <!--stackedit_data:

@@ -23,11 +23,11 @@
 [Insert/refer to an image indicating the time registeration of each partial task of the assignment]
 
 ### Thor Nicolaï 
--Study ABAP developer edition and installation
+- Study ABAP developer edition and installation
 
--Documentarion SAP
+- Documentarion SAP
 
--SAP VM installation & SAP Netweaver ABAP app Server developer edition
+- SAP VM installation & SAP Netweaver ABAP app Server developer edition
 
 
 ### Tommy Veevaete
@@ -52,21 +52,7 @@
 - Create a Test Report fo the WISA
 - Create a User Manual for SAP
 - Create a User Manual for Vagrant(WISA)
-
-
-
-
--Set up the SAP NetWeaver development environment in VirtualBox
-ender
-
--Providing manuals on the  technicalsetting up the development environment,
-and fot a user manual for an ABAP developer who wants to start working with this environment.
-
--Collect All background information that you have collected in order to get started with this assignment
-
--Produce detailed technical manuals directed to other team members about installation procedures and the used scripts
-
--Test plans and test reports
+- Make the Vagrant WISA work.
 
 
 
@@ -78,9 +64,9 @@ and fot a user manual for an ABAP developer who wants to start working with this
 
 ## Can you specify your current issues and problems?
 
-* ...
-* ...
-
+* We are experimenting some problems with the installation of the Vagrant box in order to make the Vagrant WISA run with the VM.
+* We are having problems to know from which point SAP intallation is required to be authomated 
+* We are bot sure about how to show that the SAP Netweaver developement environment is working. Is it prossible to run it with SAP GUI?
 
 
 ## Feedback technisch luik

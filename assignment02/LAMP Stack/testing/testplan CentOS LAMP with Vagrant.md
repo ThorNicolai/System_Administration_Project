@@ -1,7 +1,9 @@
 ## Prerequisites
 
 - Vagrant, VirtualBox are set up on the Windows host system.
-- The lamp.sh and user_input.sh scripts and the vagrant file are present on the system in a folder designed for the test. The files are in https://github.com/HoGentTIN/p2ops-i01/tree/master/assignment02/LAMP%20Stack
+- The lamp.sh and user_input.sh scripts and the vagrant file are present on the system in a folder created for the test. 
+- This could be C:/test for example.
+- The files are in https://github.com/HoGentTIN/p2ops-i01/tree/master/assignment02/LAMP%20Stack
 
 ## Testing
 

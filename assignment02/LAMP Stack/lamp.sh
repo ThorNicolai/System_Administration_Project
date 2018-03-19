@@ -35,5 +35,7 @@ echo "Enabling MySQL and Apache for start on boot..."
 sudo systemctl enable mariadb
 sudo systemctl enable httpd
 
+yum install dos2unix -y
+dos2unix user_input.sh
 echo "The system has set up succesfully."
 echo "After logging in to the system, navigate to /vagrant/ and run the user_input.sh script."

@@ -26,6 +26,7 @@
 - Enter the copied IP in your preferred browser on your host.
 	- Verify that you get the default "Apache working" page.
 - On the VM, copy the "sqltest.php" file to /var/www/html.
+	- cp ./sqltest.php /var/www/html
 - Edit the file and change the following variables to the ones you set with the user_input.sh script
 	- dbname
 	- dbuser

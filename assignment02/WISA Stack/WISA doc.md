@@ -79,6 +79,13 @@ https://www.rootusers.com/how-to-enable-ping-in-windows-server-2016-firewall/
 
 
 
+Uninstalling SQL:
+setup.exe /Action=Uninstall /FEATURES=SQL,AS,RS,IS,Tools /INSTANCENAME=MSSQLSERVER  
+
+
+
+
+
     
     
     

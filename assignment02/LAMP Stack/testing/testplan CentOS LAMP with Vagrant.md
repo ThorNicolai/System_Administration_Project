@@ -4,7 +4,7 @@
 - Create a directory on your host OS to execute this test in.
 - This could be C:/test for example.
 - The files you need are in https://github.com/HoGentTIN/p2ops-i01/tree/master/assignment02/LAMP%20Stack.
-- The files you need are "lamp.sh", "user_input.sh" and "vagrantfile".
+- The files you need are "lamp.sh", "user_input.sh", "sqltest.php" and "vagrantfile".
 - The easiest way to get these is to download the whole repo, or copy them from your local repo. 
 - Copy these files to the directory you created for the test.
 

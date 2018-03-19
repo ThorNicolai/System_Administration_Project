@@ -17,8 +17,14 @@
 
 [Insert/refer to an image of the current Kanban-bord(s)]
 
-* ...
-* ...
+* The Linux part is finished and tested
+
+* We are working on the Vagrant part of the Windows assignment and still some documentation needs to be done
+
+* We are working on the SAP VM installation & SAP Netweaver ABAP app Server developer edition assignment and still some documentation needs to be done
+
+
+
 
 [Insert/refer to an image indicating the time registeration of each partial task of the assignment]
 

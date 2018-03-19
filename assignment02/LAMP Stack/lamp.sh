@@ -36,4 +36,4 @@ sudo systemctl enable mariadb
 sudo systemctl enable httpd
 
 echo "The system has set up succesfully."
-echo "After logging in to the system, navigate to /vagrant/ and run the configuration.sh script."
+echo "After logging in to the system, navigate to /vagrant/ and run the user_input.sh script."

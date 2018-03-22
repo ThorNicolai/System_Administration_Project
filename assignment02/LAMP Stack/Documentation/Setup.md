@@ -5,7 +5,7 @@
 - The files you need are "lamp.sh", user_input.sh and "vagrantfile".
 - If you plan on using this box for testing, also include "sqltest.php".
 - The easiest way to get these is to download the whole repo, or copy them from your local repo. 
-- Copy these files to the directory you created for the test.
+- Copy these files to the directory you created for the VM.
 
 ## Setup
 - Navigate to the directory you created for the VM on your host.
@@ -13,5 +13,5 @@
 	- This might take a while, so just wait until it finishes.
 - When it's finished, open the newly created VM in VirtualBox.
 - Login with the user "vagrant" and the password "vagrant".
--  navigate to /vagrant/ in the VM. run the user_input.sh file.
+- navigate to /vagrant/ in the VM. run the user_input.sh file.
 - Follow the instructions of the script.

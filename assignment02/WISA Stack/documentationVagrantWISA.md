@@ -21,7 +21,7 @@
 <p>In CMD, go to the folder where you want to use Vagrant.</p>
 </li>
 <li>
-<p>Go to the Windows server 2016 Vagrant Box you need to download: 	   <a href="hhttps://app.vagrantup.com/mwrock/boxes/Windows2016</p>>
+<p>Go to the Windows server 2016 Vagrant Box you need to download: 	   <a href="hhttps://app.vagrantup.com/mwrock/boxes/Windows2016</p>
 </li>
 <li>
 <p>In the CMD run the following command and wait for the box installation<br>

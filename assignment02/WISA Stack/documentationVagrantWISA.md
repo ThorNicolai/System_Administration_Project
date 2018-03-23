@@ -22,8 +22,8 @@
 </li>
 <li>
 <p>Go to the Windows server 2016 Vagrant Box you need to download: 	   
-  
-  hhttps://app.vagrantup.com/mwrock/boxes/Windows2016</p>
+  <a href="hhttps://app.vagrantup.com/mwrock/boxes/Windows2016</a>
+  </p>
 </li>
 <li>
 <p>In the CMD run the following command and wait for the box installation<br>

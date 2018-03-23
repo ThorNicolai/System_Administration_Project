@@ -22,7 +22,7 @@
 </li>
 <li>
 <p>Go to the Windows server 2016 Vagrant Box you need to download: 	   
-  <a href="hhttps://app.vagrantup.com/mwrock/boxes/Windows2016</a>
+  hhttps://app.vagrantup.com/mwrock/boxes/Windows2016
   </p>
 </li>
 <li>

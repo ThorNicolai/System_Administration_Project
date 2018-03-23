@@ -32,6 +32,9 @@
 <li>
 <p>Check that your VM has been booted with no problems</p>
 </li>
+ <li>
+<p>Log in with the password: vagrant</p>
+</li>
 </ul>
 </div>
 </body>

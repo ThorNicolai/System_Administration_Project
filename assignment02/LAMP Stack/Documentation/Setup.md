@@ -24,3 +24,5 @@ Vagrant downloads a clean CentOS machine and configures it to be usable with Vir
 - Apache
 
 During the installation the script starts the services and makes them accessible by editing the firewall rules. When the script finishes, the Vagrant installation finishes as well and the new machine is immediately running a webserver with PHP & SQL.
+
+The user_input.sh file configures the database. It asks for a root password, a new user and password and the database name.

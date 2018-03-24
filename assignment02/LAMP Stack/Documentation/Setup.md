@@ -15,3 +15,11 @@
 - Login with the user "vagrant" and the password "vagrant".
 - navigate to /vagrant/ in the VM. run the user_input.sh file.
 - Follow the instructions of the script.
+
+## Explanation
+
+Vagrant downloads a clean CentOS machine and configures it to be usable with VirtualBox. Vagrant uses a vagrantfile to do this. In this vagrantfile, you can specify several things, most importantly, in this case a bash script that is run upon completion of the machine setup. This script, named lamp.sh, installs several applications. 
+- PHP
+- MariaDB
+- Apache
+During the installation the script starts the services and makes them accessible by editing the firewall rules. When the script finishes, the Vagrant installation finishes as well and the new machine is immediately running a webserver with PHP & SQL.

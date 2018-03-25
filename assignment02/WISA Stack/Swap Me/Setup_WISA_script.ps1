@@ -18,8 +18,7 @@ Write-Host "Installing sql Server";
         #Use to install SQL Server via a configuration file
         C:\tempsql\SQLEXPRWT_x64_ENU\setup.exe /configurationfile="C:\vagrant\configurationfile.ini" /IACCEPTSQLSERVERLICENSETERMS /INDICATEPROGRESS="True"
         
-        #Remove necessary files
-        Remove-Item -Recurse -Force c:\tempsql
+       
         Write-Output "Done installing"
 
 

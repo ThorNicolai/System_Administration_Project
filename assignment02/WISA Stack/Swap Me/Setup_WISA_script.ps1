@@ -87,7 +87,7 @@ mkdir c:\webdeployv2 -Force
 msiexec /i "C:\webdeployv2\WebPlatformInstaller_amd64_en-US.msi" /qr
 
 #Korte pauze, zorgt anders voor concurency problemen
-Start-Sleep -m 1500
+Start-Sleep -m 30000
 
 #To list the available options to install
 #Start-Process -FilePath "C:\Program Files\Microsoft\Web Platform Installer\WebPICMD-x64.exe" -ArgumentList "/List:All"
@@ -97,6 +97,4 @@ Start-Process -FilePath "C:\Program Files\Microsoft\Web Platform Installer\WebPI
 #Grant Permission to guest to create Database
 sqlcmd -S WIN-5RA2OGDHQ4S\SQLEXPRESS -i C:\vagrant\scriptPermission.sql
  
- 
-Remove-Item -Recurse -Force C:\webdeployv2
 Write-Output "Script Completed"   

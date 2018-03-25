@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Bierhalle.Models.Domain.Brouwer>
+
+@{
+    ViewBag.Title = "Brouwers";
+}
+
+<h2>Brouwers</h2>
+
+<p>
+    @Html.ActionLink("Maak een nieuwe brouwer aan", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Naam)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Straat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gemeente)
+        </th>
+        <th class="text-right">
+            @Html.DisplayNameFor(model => model.Omzet)
+        </th>
+        <th class="text-right">
+            Aantal bieren
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Naam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Straat)
+            </td>
+            <td>
+                @if (item.Gemeente != null)
+                {
+                    @( item.Gemeente.Postcode+ " " + item.Gemeente.Naam)
+                }
+            </td>
+            <td class="text-right">
+                @if (item.Omzet.HasValue)
+                {
+                    @String.Format("{0:N} €", item.Omzet.Value)
+                }
+            </td>
+            <td class="text-right">
+                @Html.DisplayFor(modelItem => item.AantalBieren)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.BrouwerId }) |
+                @Html.ActionLink("Details", "Detail", new { id = item.BrouwerId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.BrouwerId })
+            </td>
+        </tr>
+    }
+</table>
+<div>
+    Totale omzet : @String.Format("{0:N} €", ViewBag.TotaleOmzet)
+</div>

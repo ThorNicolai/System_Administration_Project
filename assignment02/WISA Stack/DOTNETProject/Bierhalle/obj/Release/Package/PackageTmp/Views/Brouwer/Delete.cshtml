@@ -1,0 +1,22 @@
+﻿@model Bierhalle.Models.Domain.Brouwer
+
+@{
+    ViewBag.Title = "Verwijder brouwer";
+}
+<h2>@ViewBag.Title</h2>
+<h4>Weet je zeker dat je de brouwer @Model.Naam wil verwijderen?</h4>
+
+<div>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Verwijder" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
+
+

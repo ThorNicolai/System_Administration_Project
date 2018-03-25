@@ -1,0 +1,64 @@
+﻿@model Bierhalle.Models.Domain.Brouwer
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<div>
+    <h2>Brouwer @Model.Naam</h2>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Naam)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Naam)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Straat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Straat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gemeente)
+        </dt>
+        @if (Model.Gemeente != null)
+        {
+            <dd>
+                @Html.DisplayFor(model => model.Gemeente.Postcode)&nbsp;  @Html.DisplayFor(model => model.Gemeente.Naam)
+            </dd>
+        }
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Omzet)
+        </dt>
+
+        <dd>
+            <!-- @Html.DisplayFor(model => model.Omzet)-->
+            @if(Model.Omzet.HasValue){
+               @Model.Omzet.Value.ToString("c");
+}
+        </dd>
+
+        <dt>
+           Aantal bieren
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AantalBieren)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BrouwerId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
+

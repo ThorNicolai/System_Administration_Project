@@ -1,0 +1,95 @@
+c:\temp\Bierhalle\Bierhalle.Tests\obj\Debug\Bierhalle.Tests.csprojResolveAssemblyReference.cache
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\csc.exe
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\vbc.exe
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Bierhalle.Tests.dll.config
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Bierhalle.Tests.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Bierhalle.Tests.pdb
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Bierhalle.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Helpers.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Mvc.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Razor.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.WebPages.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Optimization.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\EntityFramework.dll
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Bierhalle.pdb
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Helpers.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Mvc.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Razor.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.WebPages.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\System.Web.Optimization.xml
+c:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\EntityFramework.xml
+c:\temp\Bierhalle\Bierhalle.Tests\obj\Debug\Bierhalle.Tests.dll
+c:\temp\Bierhalle\Bierhalle.Tests\obj\Debug\Bierhalle.Tests.pdb
+C:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Moq.dll
+C:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\WebActivatorEx.dll
+C:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Ninject.dll
+C:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Moq.xml
+C:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\temp\Bierhalle\Bierhalle.Tests\bin\Debug\Ninject.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Bierhalle.Tests.dll.config
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Bierhalle.Tests.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Bierhalle.Tests.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Bierhalle.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Moq.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Ninject.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Bierhalle.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Moq.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\bin\Debug\Ninject.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\obj\Debug\Bierhalle.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\obj\Debug\Bierhalle.Tests.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle.Tests\obj\Debug\Bierhalle.Tests.pdb

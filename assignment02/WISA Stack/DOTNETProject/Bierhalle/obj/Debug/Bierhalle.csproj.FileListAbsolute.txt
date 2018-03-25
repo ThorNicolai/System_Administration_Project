@@ -1,0 +1,206 @@
+c:\temp\Bierhalle\Bierhalle\obj\Debug\Bierhalle.csprojResolveAssemblyReference.cache
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\csc.exe
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\System.Collections.Immutable.dll
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\System.Reflection.Metadata.dll
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\vbc.exe
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\VBCSCompiler.exe
+c:\temp\Bierhalle\Bierhalle\bin\roslyn\VBCSCompiler.exe.config
+c:\temp\Bierhalle\Bierhalle\bin\Bierhalle.dll.config
+c:\temp\Bierhalle\Bierhalle\bin\Bierhalle.dll
+c:\temp\Bierhalle\Bierhalle\bin\Bierhalle.pdb
+c:\temp\Bierhalle\Bierhalle\bin\Antlr3.Runtime.dll
+c:\temp\Bierhalle\Bierhalle\bin\EntityFramework.dll
+c:\temp\Bierhalle\Bierhalle\bin\EntityFramework.SqlServer.dll
+c:\temp\Bierhalle\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\temp\Bierhalle\Bierhalle\bin\Microsoft.Web.Infrastructure.dll
+c:\temp\Bierhalle\Bierhalle\bin\Newtonsoft.Json.dll
+c:\temp\Bierhalle\Bierhalle\bin\Ninject.dll
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Helpers.dll
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Mvc.dll
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Optimization.dll
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Razor.dll
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.WebPages.Deployment.dll
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.WebPages.dll
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.WebPages.Razor.dll
+c:\temp\Bierhalle\Bierhalle\bin\WebGrease.dll
+c:\temp\Bierhalle\Bierhalle\bin\EntityFramework.xml
+c:\temp\Bierhalle\Bierhalle\bin\EntityFramework.SqlServer.xml
+c:\temp\Bierhalle\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\temp\Bierhalle\Bierhalle\bin\Newtonsoft.Json.xml
+c:\temp\Bierhalle\Bierhalle\bin\Ninject.xml
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Helpers.xml
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Mvc.xml
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Optimization.xml
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.Razor.xml
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.WebPages.xml
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.WebPages.Deployment.xml
+c:\temp\Bierhalle\Bierhalle\bin\System.Web.WebPages.Razor.xml
+c:\temp\Bierhalle\Bierhalle\bin\Antlr3.Runtime.pdb
+c:\temp\Bierhalle\Bierhalle\obj\Debug\Bierhalle.dll
+c:\temp\Bierhalle\Bierhalle\obj\Debug\Bierhalle.pdb
+C:\temp\Bierhalle\Bierhalle\bin\Ninject.Web.Common.dll
+C:\temp\Bierhalle\Bierhalle\bin\Ninject.Web.Mvc.dll
+C:\temp\Bierhalle\Bierhalle\bin\WebActivatorEx.dll
+C:\temp\Bierhalle\Bierhalle\bin\Ninject.Web.Common.xml
+C:\temp\Bierhalle\Bierhalle\bin\Ninject.Web.Mvc.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\csc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\vbc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Bierhalle.dll.config
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Bierhalle.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Bierhalle.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Antlr3.Runtime.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\EntityFramework.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\EntityFramework.SqlServer.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Newtonsoft.Json.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Ninject.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Common.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Mvc.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Helpers.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Mvc.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Optimization.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\WebActivatorEx.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\WebGrease.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\EntityFramework.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\EntityFramework.SqlServer.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Newtonsoft.Json.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Ninject.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Common.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Mvc.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Helpers.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Mvc.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Optimization.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\bin\Antlr3.Runtime.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.csprojResolveAssemblyReference.cache
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\csc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\vbc.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\VBCSCompiler.exe
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Bierhalle.dll.config
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Bierhalle.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Bierhalle.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Antlr3.Runtime.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\EntityFramework.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\EntityFramework.SqlServer.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Newtonsoft.Json.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Ninject.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Common.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Mvc.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Helpers.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Mvc.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Optimization.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Razor.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\WebActivatorEx.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\WebGrease.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\EntityFramework.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\EntityFramework.SqlServer.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Newtonsoft.Json.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Ninject.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Common.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Mvc.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Helpers.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Mvc.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Optimization.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Razor.xml
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\bin\Antlr3.Runtime.pdb
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.csprojResolveAssemblyReference.cache
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.dll
+C:\Users\Karine\Dropbox\Web III\20152016\Theorie\08CRUD\BierhalleCompleted\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.pdb
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\csc.exe
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\vbc.exe
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\VBCSCompiler.exe
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Bierhalle.dll.config
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Bierhalle.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Bierhalle.pdb
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Antlr3.Runtime.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\EntityFramework.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\EntityFramework.SqlServer.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Newtonsoft.Json.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Ninject.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Common.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Mvc.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Helpers.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Mvc.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Optimization.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Razor.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Razor.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\WebActivatorEx.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\WebGrease.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\EntityFramework.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\EntityFramework.SqlServer.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Newtonsoft.Json.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Ninject.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Common.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Ninject.Web.Mvc.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Helpers.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Mvc.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Optimization.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.Razor.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\System.Web.WebPages.Razor.xml
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\bin\Antlr3.Runtime.pdb
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.csprojResolveAssemblyReference.cache
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.csproj.CoreCompileInputs.cache
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.csproj.CopyComplete
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.dll
+C:\Users\DBSowner\Desktop\BierhalleCompleted\Bierhalle\obj\Debug\Bierhalle.pdb

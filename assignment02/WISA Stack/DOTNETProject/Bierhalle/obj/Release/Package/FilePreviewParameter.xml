@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\DBSowner\\Desktop\\BierhalleCompleted\\Bierhalle\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\DBSowner\\Desktop\\BierhalleCompleted\\Bierhalle\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Bierhalle-Web.config Connection String" description="" value="Data Source=192.168.56.103,1433;Initial Catalog=Bierhalle;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\DBSowner\\Desktop\\BierhalleCompleted\\Bierhalle\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Bierhalle']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,5 +1,5 @@
 
-# Setting up a VM for SAP Netweaver installation
+# Setting up a VM and installing SAP ABAP
 ## Prerequisites
 ### Necessary hardware
 -   x86_64 Processor based hardware

@@ -6,7 +6,7 @@
 <h2 id="test">Test</h2>
 <p>Test the Wisa stack</p>
 <ol>
-<li>Open the project using the PRJOECT_NAME.sln file (Located in the DOTNETproject-map)</li>
+<li>Open the project using the PROJECT_NAME.sln file (Located in the DOTNETproject-map)</li>
 <li>Right click on the application in the solution explorer and select the “Publish…” option</li>
 <li>Create new publishing profile: “IIS, FTP, etc”</li>
 <li>Enter following settings:

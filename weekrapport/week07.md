@@ -26,19 +26,19 @@
 
 
 
-### Student 2
+### Mario Verstraeten
 
 * ...
 
 [Insert/refer to an image of your individual time registration]
 
-### Student 3
+### Tommy Veevaete
 
 * ...
 
 [Insert/refer to an image of your individual time registration]
 
-### Student 4
+### Núria Palacios Vilajuana
 
 * ...
 
@@ -50,10 +50,10 @@
 
 Finish assignment 2 and start distributing work for assignment 3, and start working on it.
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Thor Nicolaï
+### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan
 
 ## Can you specify your current issues and problems?
 
@@ -65,16 +65,16 @@ Finish assignment 2 and start distributing work for assignment 3, and start work
 
 ### General
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Thor Nicolaï
+### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan
 
 ## Feedback analysis tutors
 
 ### General
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Thor Nicolaï
+### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan

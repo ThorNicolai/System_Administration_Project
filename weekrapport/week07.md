@@ -1,31 +1,30 @@
 # Progress report week nn
 
-* Group :
-* Date  :
+* Group :p2ops-io1
+* Date  :26/03
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| student1 |          |         |
-| student2 |          |         |
-| student3 |          |         |
-| student4 |          |         |
+| Thor Nicolaï |          |         |
+| Mario Verstraeten |          |         |
+| Tommy Veevaete |          |         |
+| Núria Palacios Vilajuana |          |         |
 
 ## What have you realised this week?
 
 ### General
 
-[Insert/refer to an image of the current Kanban-bord(s)]
-
+![TEst](https://i.imgur.com/A7i8PPS.jpg)
 * ...
 * ...
 
-[Insert/refer to an image indicating the time registeration of each partial task of the assignment]
+![](https://i.imgur.com/QIbGvnd.png)
 
-### Student 1
+### Thor Nicolaï
 
 * ...
 
-[Insert/refer to an image of your individual time registration]
+
 
 ### Student 2
 

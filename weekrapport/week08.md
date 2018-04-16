@@ -5,10 +5,10 @@
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| Thor Nicolaï |          |         |
-| Mario Verstraeten |          |         |
-| Tommy Veevaete |          |         |
-| Núria Palacios Vilajuana |          |         |
+| Thor Nicolaï |  v        |         |
+| Mario Verstraeten |  v       |         |
+| Tommy Veevaete |  v       |         |
+| Núria Palacios Vilajuana |  v        |         |
 
 ## What have you realised this week?
 
@@ -63,6 +63,12 @@
 ## Feedback technical tutors
 
 ### General
+
+Deadlines for assignment 3:
+- proposals ready April 27th
+- presentation on May 7th
+- implementation also on May 7th
+
 
 ### Thor Nicolaï
 ### Mario Verstraeten

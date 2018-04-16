@@ -1,25 +1,18 @@
-# Progressreport week 04
+# Progress report week 04
 
-* Group : p2ops-io1
-* Date  : 05/03/2018
+* Group :p2ops-io1
+* Date  : 05/03
 
-| Student  | Aanw. | Opmerking |
-| :---     | :---  | :---      |
-| Thor Nicolaï |     |           |
-| Tommy Veevaete |     |           |
-| Núria Palacios Vilajuana	 |      |           |
-| Mario Verstraeten	 |      |           |
+| Student  | Presence | Remarks |
+| :---     | :---     | :---    |
+| Thor Nicolaï |          |         |
+| Mario Verstraeten |          |         |
+| Tommy Veevaete |          |         |
+| Núria Palacios Vilajuana |          |         |
 
-## Feedback technisch luik
+## What have you realised this week?
 
-Documentation on how the basic VMs have been set up would have been expected.
-
-Some remarks on the work done:
-Assignment 2.doc: to be avoided. Use markdown
-lamp.sh: please add some comment in you script. "-- ... " will give an error
-vagrant: good start, but the vagrant script doing the actual work is the next challenge
-
-### Algemeen
+### General
 
 ### Thor Nicolaï 
 Assignment1: Lab 4- Basic Static Route Configuration
@@ -50,12 +43,39 @@ assignment1: lab 4 SET UP
 
 Assignment 1: Lab 3 - Building a Switch and Router Network
 
-## Feedback analyseluik
 
+## What are your goals of next week?
 
-### Algemeen
+### General
 
-### Thor Nicolaï 
-### Tommy Veevaete
-### Núria Palacios Vilajuana
+Start Assignment 2 and finish assignment 1
+
+### Thor Nicolaï
 ### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan
+
+## Can you specify your current issues and problems?
+
+
+* ...
+
+## Feedback technical tutors
+
+### General
+
+Documentation on how the basic VMs have been set up would have been expected.
+
+Some remarks on the work done:
+Assignment 2.doc: to be avoided. Use markdown
+lamp.sh: please add some comment in you script. "-- ... " will give an error
+vagrant: good start, but the vagrant script doing the actual work is the next challenge
+
+### Thor Nicolaï
+### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan
+
+## Feedback analysis tutors
+
+

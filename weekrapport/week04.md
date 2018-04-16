@@ -1,9 +1,16 @@
 # Progressreport week 04
 
+* Group : p2ops-io1
+* Date  : 19/03/2018
+
+| Student  | Aanw. | Opmerking |
+| :---     | :---  | :---      |
+| Thor Nicolaï |     |           |
+| Tommy Veevaete |     |           |
+| Núria Palacios Vilajuana	 |      |           |
+| Mario Verstraeten	 |      |           |
 
 ## Feedback technisch luik
-
-Both a tender, indicating who is supposed to do what, and a week report for week04 are missing for this task. Difficult to keep track of the progress like this ... 
 
 Documentation on how the basic VMs have been set up would have been expected.
 

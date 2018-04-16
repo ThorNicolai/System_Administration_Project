@@ -5,10 +5,10 @@
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| Thor Nicolaï |          |         |
-| Mario Verstraeten |          |         |
-| Tommy Veevaete |          |         |
-| Núria Palacios Vilajuana |          |         |
+| Thor Nicolaï |    v      |         |
+| Mario Verstraeten |    v      |         |
+| Tommy Veevaete |    v      |         |
+| Núria Palacios Vilajuana |   v       |         |
 
 ## What have you realised this week?
 

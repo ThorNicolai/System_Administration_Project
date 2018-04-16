@@ -1,4 +1,4 @@
-# Progress report week 08-09-10
+# Progress report week 08
 
 * Group :p2ops-io1
 * Date  : 16/04

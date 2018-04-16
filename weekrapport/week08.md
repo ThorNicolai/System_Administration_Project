@@ -29,7 +29,8 @@
 ![Time registration](https://i.imgur.com/dt3SBG3.png)
 ### Mario Verstraeten
 
-* ...
+* Documentation WISA & Vagrant
+![Time registration](https://gyazo.com/6dd262998450e9ea6903e1d0d8199e3c.png)
 
 ![Time registration](link here)
 

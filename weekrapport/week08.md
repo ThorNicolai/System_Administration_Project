@@ -72,6 +72,13 @@ Deadlines for assignment 3:
 - presentation on May 7th
 - implementation also on May 7th
 
+Weekrepports should be better prepared.
+
+Improvements:
+- WISA documentatin is better structured. Good.
+
+In general: details should be finished better, taking the progress that your group is making. We have had these discussions before, there is improvement, but things should be checked (better) before being put into review.
+
 
 ### Thor Nicolaï
 ### Mario Verstraeten

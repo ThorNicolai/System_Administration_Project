@@ -1,7 +1,7 @@
 # Progress report week 08
 
 * Group :p2ops-io1
-* Date  :
+* Date  : 16/04
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |

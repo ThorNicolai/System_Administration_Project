@@ -1,0 +1,5 @@
+In the CMD I ran the following command and wait for the box installation: vagrant init DBSowner/ProjectsSysAdm --box-version 1.0
+
+And afterwards the command: vagrant up
+
+Now I can see that the virtualbox has been made

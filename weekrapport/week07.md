@@ -5,10 +5,10 @@
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| Thor Nicolaï |          |         |
-| Mario Verstraeten |          |         |
-| Tommy Veevaete |          |         |
-| Núria Palacios Vilajuana |          |         |
+| Thor Nicolaï |   v       |         |
+| Mario Verstraeten |   v       |         |
+| Tommy Veevaete |  v        |         |
+| Núria Palacios Vilajuana |   X       |  no valid reason  |
 
 ## What have you realised this week?
 
@@ -65,10 +65,30 @@ Finish assignment 2 and start distributing work for assignment 3, and start work
 
 ### General
 
+The LAMP & WISA have been met, although better documentation is worth your attention.
+SAP is in an initial phase.
+
+Week reports should be prepared in time. It happened in week 4, now it happend again. Once to many.
+
+#### LAMP
+Already finished last week, no further remarks. Small improvements have been made.
+Also Digital Ocean LAMP has been demonstrated last week.
+Creating usefull names for documentation would be a further improvement.
+
+#### WISA
+Operational side is working. The server is operational (althought following the test plan was not completed).
+Documentation: more structure in the documentation is expected. Keeping track of drafts is allowed, but the final documents should be visible in the GIThub repository, and properly finished.
+
+#### SAP
+First steps for a manual install have been taken & document.
+This is still work in progress ...
+
+
+
 ### Thor Nicolaï
-### Mario Verstraeten
 ### Tommy Veevaete
-### Núria Palacios Vilajuan
+### Núria Palacios Vilajuana
+A short time notice for an abscence will not be tolerated anymore.
 
 ## Feedback analysis tutors
 

@@ -4,15 +4,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Testplan Wisa</title>
   <link rel="stylesheet" href="https://stackedit.io/style.css" />
 </head>
 
 <body class="stackedit">
-  <div class="stackedit__html"><p>Note: Before starting this test, the prerequisitions should be fulfilled. These can be found under de doccument ‘prerequisitions’</p>
+  <div class="stackedit__html"><p>Note: Before starting this test, the prerequisites should be fulfilled. These can be found under the document ‘prerequisites’</p>
 <p>Test the Wisa stack</p>
 <ol>
-<li>Open the project using the PRJOECT_NAME.sln file (Located in the DOTNETproject-map)</li>
+<li>Open the project using the PROJECT_NAME.sln file (Located in the DOTNETproject-map)</li>
 <li>Right click on the application in the solution explorer and select the “Publish…” option<img src="https://i.gyazo.com/01309cc99df0fd1ed215601a9db73d6f.png" alt=""></li>
 <li>Create new publishing profile: “IIS, FTP, etc”<img src="https://i.gyazo.com/130940a749ea0901381bacb6850e2fc4.png" alt=""></li>
 <li>Enter following settings:

@@ -22,9 +22,8 @@
 
 ### Thor Nicolaï
 
-* ...
-
-
+* Automate the VM box for the SAP NW install
+* Writing Manual for complete manual install of both VM and SAP NetWeaver
 
 ### Mario Verstraeten
 

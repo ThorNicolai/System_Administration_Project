@@ -23,24 +23,33 @@ vagrant: good start, but the vagrant script doing the actual work is the next ch
 
 ### Thor Nicolaï 
 Assignment1: Lab 4- Basic Static Route Configuration
+
 assignment1: lab 4 SET UP
+
 Assignment 1: Lab 3 - Building a Switch and Router Network
 
 ### Tommy Veevaete
 Set up centOS VM
 Translate assignment 2 Dutch to English
+
 assignment1: lab 4 SET UP
+
 Assignment 1: Lab 3 - Building a Switch and Router Network
 
 ### Núria Palacios Vilajuana
 Assignment1: Lab 4- Basic Static Route Configuration
+
 assignment1: lab 4 SET UP
+
 Assignment 1: Lab 3 - Building a Switch and Router Network
 
 ### Mario Verstraeten
 Assignment1: Lab 4- Basic Static Route Configuration
+
 assignment1: lab 4 SET UP
+
 Assignment 1: Lab 3 - Building a Switch and Router Network
+
 ## Feedback analyseluik
 
 

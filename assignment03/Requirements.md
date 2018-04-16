@@ -29,6 +29,7 @@ Technical
 	- Guests / customers
 
 Pricing
+- ISP 
 - Hardware
 - OS installation
 - Workstation configuration (making the laptops ready to use)

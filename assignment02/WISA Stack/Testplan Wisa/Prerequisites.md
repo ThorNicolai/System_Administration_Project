@@ -33,21 +33,3 @@ Your VM should now be created and accessible from VirtualBox
 (In case there is a problem with starting the vm, use the 'vagrant up --provision' command to make sure the script to install the WISA tries to run again)
 
 ----
-
-Test the Wisa stack
-
-  1. Open the project using the PRJOECT_NAME.sln file (Located in the DOTNETproject-map)
-  2. Right click on the application in the solution explorer and select the "Publish..." option
-  3. Create new publishing profile: "IIS, FTP, etc"
-  4. Enter following settings:
-        - Publish method: Web Deploy
-       - Server: 192.168.56.103
-       - Site name: Default Web Site
-       - User name: Administrator
-       - Password: PolPol22
-       - Destination URL: (keep this field clear)
-  5.Validate connection and press "next"
-  6.Under Databases you enter the following remote connection string: Data Source=WIN-5RA2OGDHQ4S\SQLEXPRESS;Integrated Security=True;Initial Catalog=Bierhalle;
-  7. Press Save and Publish the Application.
-  8. To test, you can surf on your host-machine to 192.168.56.103 and the application should be running
-  9. To verify the Database functionality: try to add, edit and delete information and reload the page after each operation.

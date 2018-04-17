@@ -1,7 +1,7 @@
 ## Prerequisites
 - Vagrant, VirtualBox are set up on the Windows host system.
 - There is a running instance of a LAMP Stack CentOS VM.
-- See [the documentation](https://github.com/HoGentTIN/p2ops-i01/edit/master/assignment02/LAMP%20Stack/Documentation/Setup.md) for setting up a VM.
+- See [the documentation](https://github.com/HoGentTIN/p2ops-i01/blob/master/assignment02/LAMP%20Stack/Documentation/Automated%20LAMP%20installation%20on%20CentOS%20with%20Vagrant.md) for setting up a VM.
 
 ## Testing
 - Login to the virtual machine with the username "vagrant" and the password "vagrant".

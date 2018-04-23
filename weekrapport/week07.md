@@ -36,9 +36,11 @@
 
 ### Tommy Veevaete
 
-* ...
+* Finished the LAMP test plan
+* Tested the WISA stack
+* Documented the LAMP stack
+
 ![](https://i.imgur.com/FeBFtFc.png)
-[Insert/refer to an image of your individual time registration]
 
 ### Núria Palacios Vilajuana
 

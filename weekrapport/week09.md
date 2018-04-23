@@ -64,7 +64,12 @@ Finishing both proposals and prepare a presentation, also preparing 1 Physical s
 * Digitalize the physical proposal
 
 ### General
-* Make the presentations
+* Finish the 2 proposals including:
+- Packet Tracer file with the logical proposal
+- Png file with the physical proposal
+- Excel file with the budget
+- md file with the documentation
+
 * Prepare the physical implementation of the choosen proposal
 
 ### Mario Verstraeten

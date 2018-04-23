@@ -34,9 +34,12 @@
 
 ### Tommy Veevaete
 
-* ...
+* Researching which hardware to use in the logical plan
+* Setting up the hardware 
+* Started planning the IP scheme including VLAN's
+* Started assigning IP's and configuring VLAN's
 
-![Time registration]()
+![Time registration](https://i.imgur.com/1JUmFRr.png)
 
 ### Núria Palacios Vilajuana
 
@@ -44,11 +47,15 @@
 ![](https://i.imgur.com/o4pXeVw.jpg)
  * Looking up the prices of the equipment 
 
-![Time registration](link here)
+![Time registration]()
 
 ## What are your goals of next week?
 
 Finishing both proposals and prepare a presentation, also preparing 1 Physical setup for the presentation of it.
+Tommy: By friday
+* Have connectivity between devices and to the outside
+* Have VoIP working
+* Have WiFi working
 
 ### General
 
@@ -60,7 +67,7 @@ Finishing both proposals and prepare a presentation, also preparing 1 Physical s
 ### Núria Palacios Vilajuan
 
 ## Can you specify your current issues and problems?
-
+Tommy: * Unclear how I am going to combine DHCP, VLAN and Wireless. Need to do more research and testing
 
 ## Feedback technical tutors
 
@@ -80,3 +87,4 @@ Finishing both proposals and prepare a presentation, also preparing 1 Physical s
 ### Mario Verstraeten
 ### Tommy Veevaete
 ### Núria Palacios Vilajuan
+

@@ -44,7 +44,7 @@
 
 *	Documentation Vagrant WISA
 
-* Test report WISA Vagrant
+* Testplan  WISA Vagrant
 
 [Insert/refer to an image of your individual time registration]
 

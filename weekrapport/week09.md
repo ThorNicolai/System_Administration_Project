@@ -22,7 +22,7 @@
 * Creating Logical setup Proposal #2 in Packet Tracer 
 * Researching Small Business cisco setups
 
-![Time registration]()
+![Time registration](https://i.imgur.com/tNLupek.png)
 ### Mario Verstraeten
 
 * Creating floorplan Proposal #1

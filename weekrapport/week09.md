@@ -1,14 +1,14 @@
 # Progress report week 08
 
 * Group :p2ops-io1
-* Date  : 16/04
+* Date  : 23/04
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| Thor Nicolaï |  v        |         |
-| Mario Verstraeten |  v       |         |
-| Tommy Veevaete |  v       |         |
-| Núria Palacios Vilajuana |  v        |         |
+| Thor Nicolaï |          |         |
+| Mario Verstraeten |         |         |
+| Tommy Veevaete |         |         |
+| Núria Palacios Vilajuana |       |         |
 
 ## What have you realised this week?
 
@@ -21,12 +21,9 @@
 ![Time registration](link here)
 ### Thor Nicolaï
 
-* VM automated
-* SAP automated 
-* Manuals, both manual install and automated install
-* Testplan SAP
 
-![Time registration](https://i.imgur.com/dt3SBG3.png)
+
+![Time registration]()
 ### Mario Verstraeten
 
 * Creating floorplan Proposal #1

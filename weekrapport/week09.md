@@ -80,6 +80,9 @@ Tommy: * Unclear how I am going to combine DHCP, VLAN and Wireless. Need to do m
 
 ### General
 
+Assignment 03: alternatives should not immediatly deal with different network topologies, but could vary in the types of equipment.
+
+Reviewed SAP manuals, set-up is automated.
 
 ### Thor Nicolaï
 ### Mario Verstraeten

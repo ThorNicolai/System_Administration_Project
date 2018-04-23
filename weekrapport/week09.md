@@ -27,6 +27,8 @@
 ### Mario Verstraeten
 
 * Creating floorplan Proposal #1
+![](https://i.gyazo.com/8a2839da063c18e1f87cf9e1e162693e.png)
+
 * Looking up the prices of the equipment 
 
 ![Time registration](https://i.gyazo.com/86ae5e122a3e1eaca818d8eb8fee324a.png)

@@ -36,15 +36,17 @@
 
 ### Tommy Veevaete
 
-* ...
+* Finished the LAMP test plan
+* Tested the WISA stack
+* Documented the LAMP stack
 
-[Insert/refer to an image of your individual time registration]
+![](https://i.imgur.com/FeBFtFc.png)
 
 ### Núria Palacios Vilajuana
 
 *	Documentation Vagrant WISA
 
-* Test report WISA Vagrant
+* Testplan  WISA Vagrant
 
 [Insert/refer to an image of your individual time registration]
 

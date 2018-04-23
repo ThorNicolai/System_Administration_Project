@@ -22,7 +22,7 @@
 * Creating Logical setup Proposal #2 in Packet Tracer 
 * Researching Small Business cisco setups
 
-![Time registration]()
+![Time registration](https://i.imgur.com/tNLupek.png)
 ### Mario Verstraeten
 
 * Creating floorplan Proposal #1
@@ -68,7 +68,7 @@ Finishing both proposals and prepare a presentation, also preparing 1 Physical s
 * Finish the 2 proposals including:
 - Packet Tracer file with the logical proposal
 - Png file with the physical proposal
-- Excel file with the budget
+- Excel file with the budget (intallation and monthly)
 - md file with the documentation
 
 * Prepare the physical implementation of the choosen proposal

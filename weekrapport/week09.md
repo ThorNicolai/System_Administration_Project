@@ -41,7 +41,9 @@
 
 ### Núria Palacios Vilajuana
 
-* ...
+* Creating floorplan Proposal #2
+
+ * Looking up the prices of the equipment 
 
 ![Time registration](link here)
 

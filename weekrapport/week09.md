@@ -47,7 +47,7 @@
 ![](https://i.imgur.com/o4pXeVw.jpg)
  * Looking up the prices of the equipment 
 
-![Time registration](https://i.imgur.com/VTAntEs.jpg)
+![Time registration](https://i.imgur.com/poBTbUl.png)
 
 ## What are your goals of next week?
 
@@ -58,7 +58,7 @@ Finishing both proposals and prepare a presentation, also preparing 1 Physical s
 * Have VoIP working
 * Have WiFi working
 
- ### Thor Nicolaï and Núria 
+ ### Thor Nicolaï and Núria Palacios
 * Chose the material to use in the proposal 2
 * Make a budget
 * Digitalize the physical proposal

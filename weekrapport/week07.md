@@ -37,7 +37,7 @@
 ### Tommy Veevaete
 
 * ...
-
+![](https://i.imgur.com/FeBFtFc.png)
 [Insert/refer to an image of your individual time registration]
 
 ### Núria Palacios Vilajuana

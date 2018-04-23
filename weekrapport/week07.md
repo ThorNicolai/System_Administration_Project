@@ -44,6 +44,8 @@
 
 *	Documentation Vagrant WISA
 
+* Test report WISA Vagrant
+
 [Insert/refer to an image of your individual time registration]
 
 ## What are your goals of next week?

@@ -52,6 +52,7 @@
 ## What are your goals of next week?
 
 Finishing both proposals and prepare a presentation, also preparing 1 Physical setup for the presentation of it.
+
 Tommy: By friday
 * Have connectivity between devices and to the outside
 * Have VoIP working

@@ -27,7 +27,10 @@
 
 ### Mario Verstraeten
 
-* ...
+* Write Documentation WISA
+*Finsh writing script WISA
+
+![](https://i.gyazo.com/472a5930af602810a3b522a7a0fe83ee.png)
 
 [Insert/refer to an image of your individual time registration]
 

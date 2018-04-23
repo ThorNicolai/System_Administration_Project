@@ -42,7 +42,7 @@
 
 ### Núria Palacios Vilajuana
 
-* ...
+*	Documentation Vagrant WISA
 
 [Insert/refer to an image of your individual time registration]
 

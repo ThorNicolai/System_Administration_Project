@@ -14,14 +14,13 @@
 
 ### General
 
-
-* Preperation Assignment 3
-* Dividing group for the 2 proposals
+* Assignment 3, preparing proposals logical + physical   
 
 ![Time registration](link here)
 ### Thor Nicolaï
 
-
+* Creating Logical setup Proposal #2 in Packet Tracer 
+* Researching Small Business cisco setups
 
 ![Time registration]()
 ### Mario Verstraeten
@@ -48,6 +47,8 @@
 ![Time registration](link here)
 
 ## What are your goals of next week?
+
+Finishing both proposals and prepare a presentation, also preparing 1 Physical setup for the presentation of it.
 
 ### General
 

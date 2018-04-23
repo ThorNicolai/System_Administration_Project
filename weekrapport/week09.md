@@ -1,7 +1,7 @@
 # Progress report week nn
 
 * Group :
-* Date  :
+* Date  : 23/04/2018
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |

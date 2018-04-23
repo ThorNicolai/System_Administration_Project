@@ -53,10 +53,11 @@
 
 Finishing both proposals and prepare a presentation, also preparing 1 Physical setup for the presentation of it.
 
-### Tommy Veevaete (By friday)
+### Tommy Veevaete and Mario Verstraeten (By friday)
 * Have connectivity between devices and to the outside
 * Have VoIP working
 * Have WiFi working
+* Finish pricing proposal 2 and create a proper document
 
  ### Thor Nicolaï and Núria Palacios
 * Chose the material to use in the proposal 2
@@ -71,9 +72,6 @@ Finishing both proposals and prepare a presentation, also preparing 1 Physical s
 - md file with the documentation
 
 * Prepare the physical implementation of the choosen proposal
-
-### Mario Verstraeten
-
 
 ## Can you specify your current issues and problems?
 Tommy: * Unclear how I am going to combine DHCP, VLAN and Wireless. Need to do more research and testing

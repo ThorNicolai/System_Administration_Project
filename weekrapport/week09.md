@@ -47,7 +47,7 @@
 ![](https://i.imgur.com/o4pXeVw.jpg)
  * Looking up the prices of the equipment 
 
-![Time registration]()
+![Time registration](https://imgur.com/a/VTAntEs)
 
 ## What are your goals of next week?
 
@@ -58,6 +58,14 @@ Tommy: By friday
 * Have VoIP working
 * Have WiFi working
 
+Núria and Thor:
+* Chose the material to use in the proposal 2
+* Make a budget
+* Digitalize the physical proposal
+
+All: 
+* Make the presentations
+* Prepare the physical implementation of the choosen proposal
 ### General
 
 

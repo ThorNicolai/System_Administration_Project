@@ -47,7 +47,7 @@
 ![](https://i.imgur.com/o4pXeVw.jpg)
  * Looking up the prices of the equipment 
 
-![Time registration](https://imgur.com/a/VTAntEs)
+![Time registration](https://i.imgur.com/VTAntEs.jpg)
 
 ## What are your goals of next week?
 

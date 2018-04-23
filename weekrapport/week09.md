@@ -1,77 +1,80 @@
-# Progress report week nn
+# Progress report week 08
 
-* Group :
-* Date  : 23/04/2018
+* Group :p2ops-io1
+* Date  : 16/04
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| student1 |          |         |
-| student2 |          |         |
-| student3 |          |         |
-| student4 |          |         |
+| Thor Nicolaï |  v        |         |
+| Mario Verstraeten |  v       |         |
+| Tommy Veevaete |  v       |         |
+| Núria Palacios Vilajuana |  v        |         |
 
 ## What have you realised this week?
 
 ### General
 
-[Insert/refer to an image of the current Kanban-bord(s)]
 
-* ...
-* ...
+* Preperation Assignment 3
+* Dividing group for the 2 proposals
 
-[Insert/refer to an image indicating the time registeration of each partial task of the assignment]
+![Time registration](link here)
+### Thor Nicolaï
 
-### Student 1
+* VM automated
+* SAP automated 
+* Manuals, both manual install and automated install
+* Testplan SAP
 
-* ...
+![Time registration](https://i.imgur.com/dt3SBG3.png)
+### Mario Verstraeten
 
-[Insert/refer to an image of your individual time registration]
+* Creating floorplan Proposal #1
+* Looking up the prices of the equipment 
 
-### Student 2
+![Time registration](https://i.gyazo.com/86ae5e122a3e1eaca818d8eb8fee324a.png)
 
-* ...
-
-[Insert/refer to an image of your individual time registration]
-
-### Student 3
-
-* ...
-
-[Insert/refer to an image of your individual time registration]
-
-### Student 4
+### Tommy Veevaete
 
 * ...
 
-[Insert/refer to an image of your individual time registration]
+![Time registration]()
+
+### Núria Palacios Vilajuana
+
+* ...
+
+![Time registration](link here)
 
 ## What are your goals of next week?
 
 ### General
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+
+
+
+### Thor Nicolaï
+### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan
 
 ## Can you specify your current issues and problems?
 
-* ...
-* ...
 
 ## Feedback technical tutors
 
 ### General
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+
+### Thor Nicolaï
+### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan
 
 ## Feedback analysis tutors
 
 ### General
 
-### Student 1
-### Student 2
-### Student 3
-### Student 4
+### Thor Nicolaï
+### Mario Verstraeten
+### Tommy Veevaete
+### Núria Palacios Vilajuan

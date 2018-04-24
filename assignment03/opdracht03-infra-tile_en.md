@@ -1,4 +1,4 @@
-# Assignment 2: Network infrastructure analysis of an office
+# Assignment 3: Network infrastructure analysis of an office
 
 ## Job description
 

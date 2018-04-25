@@ -1,6 +1,6 @@
 # Tender Assignment 3: Proposal 1
 
-* Responsible completion : [Tommy Veevaete & Mario Verstraeten]
+* Responsibles of completion: [Tommy Veevaete & Mario Verstraeten]
 
 ## Deliverables
 

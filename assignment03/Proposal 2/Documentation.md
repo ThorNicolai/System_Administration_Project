@@ -4,7 +4,7 @@
 
 ### General description
 This is a proposal for a Network infrastructure of an office. The office belongs to a SME Real State company of 10 employees. 
-Based on the forplaan of the office we developed a proposal of both the Network infrastrucutre and the distribution of the working space. We opted for a high quality proposal ready for expansion and future performance. Due to this considerations the chosen material is far from the cheapest offered in the market. 
+Based on the forplaan of the office we developed a proposal of both the network infrastrucutre and the distribution of the working space. We opted for a high quality proposal ready for expansion and future performance. Due to this considerations the chosen material is far from the cheapest offered in the market. 
 
 ### Technical Room
 In the technical room we will count with a modem, a firewall, a router and two switches.

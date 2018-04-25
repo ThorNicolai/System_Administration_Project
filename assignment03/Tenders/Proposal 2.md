@@ -1,6 +1,6 @@
 # Tender Assignment 3: Proposal 2
 
-* Responsible completion : [Thor Nicolaï & Núria Palacios Vilajuana]
+* Responsibles of completion : [Thor Nicolaï & Núria Palacios Vilajuana]
 
 ## Deliverables
 

@@ -13,13 +13,24 @@ We chose to use a firewall to improve the security of the office by keeping comp
 Two switches are going to be used in order to separate the ip phone connections from the other devices connections. Having two switches ensures the possibility of future expansion as there are still plenty of available ports.
 Just one router is needed to deliver connection to the office.
 
+
 ### Office
 In the office there is working places for nine employees and the manager. We distrubuted the working spaces regarding both the optimization of the network and the best placement for each employee.
 The manager has his own desk and the nine employes are divided in three spaces for two people and one space for three people. All ten desks have the same equipment.
-For each desk there is an IP telephone, a Laptop, a keyboard and a mouse, a 27'' Screen, an ethernet port and ethernet cable, a docking station and a laptop stand.
-By using the docking station and connecting the laptop with a thunderbolt cable to it, the laptop will be provided with internet, power, acces to mouse, screen and keyboard. 
+For each desk there is an IP telephone, a Laptop, a keyboard and a mouse, a 27'' Screen, an ethernet port and ethernet cable, a dockingstation and a laptop stand.
+By using the dockingstation and connecting the laptop with a thunderbolt cable to it, the laptop will be provided with internet, power, acces to mouse, screen and keyboard. 
 In the office we have two internet access points. One access point is for employee access and the other one for guests.
 
+#### technical specifications
+The Laptop choosen is a Dell XPS 15 CNX95605 Azerty. It has an Intel Core i7 processor with 32GB of RAM. This model will allow the employees to work with comfortness while using both the office applications and the graphical tools.
+
+The dockingstation count with 5 USB ports, HDMI connections adn VGA port. The Thunderbolt 3 connection connects and loads the laptop at the same time. It also allows the user to load external devices and transfer data through the USB port. Additionally, you can connect multiple screens through the dockingstation and expand the workspace For this last purpose each desk coutns with the 27'' screen.
+
+The Cisco 7960G IP Phone is a complete telephone to make calls to the network to which the computer is connected. You can start and receive phone calls, activate active calls, use speed dial numbers, transfer calls, make conference calls, etc. In addition to the basic call management features, the phone also supports specialized or advanced phone features that allow you to expand and customize the phone call management features.
+
+
+
 ### Conference Room
-The conference room is equiped with a beamer and a screen, an HDMI cable, an ethernet port and ethernet cable and also an IP phone.
+The conference room thought to be used for meetings between the employees and also for meetings with customers. It is equiped with a beamer and a screen, an HDMI cable, 4 ethernet ports and ethernet cable and also an IP phone. It also have wifi access, both to the network for employees and for guests.
+
 

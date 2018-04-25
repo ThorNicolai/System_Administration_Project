@@ -1,34 +1,33 @@
-# Tender Assignment 2: LAMP 
+# Tender Assignment 3: Proposal 2
 
-* Responsible completion : [Tommy Veevaete]
-* Responsible testing    : [Núria Palacios Vilajuana]
+* Responsible completion : [Tommy Veevaete & Mario Verstraeten]
 
 ## Deliverables
 
-* Set up a LAMP stack manually.
-* Make the set-up automatical with Vagrant.
-* Use the automation to set the LAMP stack up on a cloud hosting provider.
+* Packet tracer document with the logical proposal.
+* PNG file with the physical proposal (floor plan).
+* Md document with de documentation of the proposal.
+* Excel document with the invoice 
 
 
 ## Partims
 
-* Research Vagrant, Drupal and LAMP stack.
-* Set up LAMP stack manually.
-* Set up Vagrant CentOS box.
-* Write script to automatically install LAMP stack.
-* Insert script into Vagrant box.
-* Create testplan for this script.
-* Set up a DigitalOcean webserver with the Vagrant script.
-* Install Drupal on this server.
+* Research the hardaware, software and materials prices and properties .
+* Resarch of the service and installation prices.
+* Research of the network distribution of an office.
+* Create a logical proposal
+* Create a physical proposal.
+* Create an invoice with the lsit of all the materials and services needed.
+.
 
 ## Time spending
 
 | Student  | Estimate | Effective |
 | :---     |    ---:  |      ---: |
-| Tommy Veevaete | 31,5    |    24  |
-| Núria Palacios Vilajuana |   0,75       |     1,75      |
+| Mario Verstraeten |  |    |
+| Tommy Veevaete |      |          |
 | student3 |          |           |
 | student4 |          |           |
 
 
-![Time registration Tommy](https://i.imgur.com/iSIqX3g.png)
+![Time registration ]()

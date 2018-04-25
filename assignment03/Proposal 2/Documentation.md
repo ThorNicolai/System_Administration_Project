@@ -21,7 +21,7 @@ For each desk there is an IP telephone, a Laptop, a keyboard and a mouse, a 27''
 By using the dockingstation and connecting the laptop with a thunderbolt cable to it, the laptop will be provided with internet, power, acces to mouse, screen and keyboard. 
 In the office we have two internet access points. One access point is for employee access and the other one for guests.
 
-#### technical specifications
+#### Technical specifications
 The Laptop choosen is a Dell XPS 15 CNX95605 Azerty. It has an Intel Core i7 processor with 32GB of RAM. This model will allow the employees to work with comfortness while using both the office applications and the graphical tools.
 
 The dockingstation count with 5 USB ports, HDMI connections adn VGA port. The Thunderbolt 3 connection connects and loads the laptop at the same time. It also allows the user to load external devices and transfer data through the USB port. Additionally, you can connect multiple screens through the dockingstation and expand the workspace For this last purpose each desk coutns with the 27'' screen.

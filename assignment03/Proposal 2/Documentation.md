@@ -22,15 +22,15 @@ By using the dockingstation and connecting the laptop with a thunderbolt cable t
 In the office we have two internet access points. One access point is for employee access and the other one for guests.
 
 #### Technical specifications
-The Laptop choosen is a Dell XPS 15 CNX95605 Azerty. It has an Intel Core i7 processor with 32GB of RAM. This model will allow the employees to work with comfortness while using both the office applications and the graphical tools.
+The Laptop chosen is a Dell XPS 15 CNX95605 Azerty. It has an Intel Core i7 processor with 32GB of RAM. This model will allow the employees to work with comfortness while using both the office applications and the graphical tools.
 
-The dockingstation count with 5 USB ports, HDMI connections adn VGA port. The Thunderbolt 3 connection connects and loads the laptop at the same time. It also allows the user to load external devices and transfer data through the USB port. Additionally, you can connect multiple screens through the dockingstation and expand the workspace For this last purpose each desk coutns with the 27'' screen.
+The dockingstation comes with 5 USB ports, HDMI connections and a VGA port. The Thunderbolt 3 connection connects and loads the laptop at the same time. It also allows the user to load external devices and transfer data through the USB port. Additionally, you can connect multiple screens through the dockingstation and expand the workspace. For this last purpose each desk comes with a 27'' screen.
 
 The Cisco 7960G IP Phone is a complete telephone to make calls to the network to which the computer is connected. You can start and receive phone calls, activate active calls, use speed dial numbers, transfer calls, make conference calls, etc. In addition to the basic call management features, the phone also supports specialized or advanced phone features that allow you to expand and customize the phone call management features.
 
 
 
 ### Conference Room
-The conference room thought to be used for meetings between the employees and also for meetings with customers. It is equiped with a beamer and a screen, an HDMI cable, 4 ethernet ports and ethernet cable and also an IP phone. It also have wifi access, both to the network for employees and for guests.
+The conference room designed to be used for meetings between the employees and for meetings with customers. It is equiped with a beamer and a screen, an HDMI cable, 4 ethernet ports and ethernet cable and also an IP phone. It also have wifi access, both to the network for employees and for guests.
 
 

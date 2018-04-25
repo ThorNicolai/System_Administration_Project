@@ -15,7 +15,7 @@ Just one router is needed to deliver connection two the office.
 
 ### Office
 In the office there is working places for nine employees  and the manager. We distrubuted the working spaces regarding both the optimization of the network and the best placement for each employee.
-The manager has his own desk and the nine employes are divided in 3 spaces for two people and one space for 3 people. All ten desks have the same equipment.
+The manager has his own desk and the nine employes are divided in three spaces for two people and one space for three people. All ten desks have the same equipment.
 For each desk there is an IP telephone, a Laptop, a keyboard and a mouse, a 27'' Screen, an etehrnet port and ethernet cable, a docking station and a laptop stand.
 By using the docking station and connecting the laptop by a thunderbolt cable to it, the laptop will be provided with internet, power, acces to mouse, screen and keyboard. 
 In the office we count wth two internet access points. One access poitn is for employee access and the other one for guests.

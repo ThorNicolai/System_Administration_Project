@@ -12,13 +12,13 @@
 
 ## Partims
 
-* Research the hardaware, software and materials prices and properties .
+* Research hardaware, software and materials prices and properties .
 * Resarch of the service and installation prices.
 * Research of the network distribution of an office.
-* Create a logical proposal
-* Create a physical proposal.
-* Create an invoice with the lsit of all the materials and services needed.
-.
+* Create a logical proposal on packet tracer
+* Create a physical proposal drowing it on the floor plan.
+* Create an invoice with the list of all the materials and services needed.
+
 
 ## Time spending
 

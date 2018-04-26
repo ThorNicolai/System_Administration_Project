@@ -12,7 +12,7 @@
 
 ## Partims
 
-* Research hardaware, software and materials prices and properties .
+* Research hardware, software and materials prices and properties .
 * Resarch of the service and installation prices.
 * Research of the network distribution of an office.
 * Create a logical proposal on packet tracer

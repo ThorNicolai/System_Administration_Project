@@ -25,9 +25,9 @@
 | Student  | Estimate | Effective |
 | :---     |    ---:  |      ---: |
 | Mario Verstraeten |  |    |
-| Tommy Veevaete |      |          |
+| Tommy Veevaete |   18   |     14     |
 | student3 |          |           |
 | student4 |          |           |
 
 
-![Time registration ]()
+![Time registration ](https://i.imgur.com/gaFD0Qm.png)

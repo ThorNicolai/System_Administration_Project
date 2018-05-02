@@ -59,6 +59,7 @@
 ### Núria Palacios Vilajuana
 
 * Creating floorplan Proposal #2
+![](https://imgur.com/a/5vF6vpa)
 * Creating Logical setup Proposal #2 in Packet Tracer 
 * Researching Small Business cisco setups
 * Researching information about the hardware and set up prices
@@ -67,7 +68,7 @@
 * Developing Tender Proposa#1 and proposal#2
 * Week Report
 
-![](https://i.imgur.com/o4pXeVw.jpg)
+![](
  
 
 ![Time registration]()

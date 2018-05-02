@@ -15,14 +15,14 @@
 ### General
 
 * Assignment 3: for each proposal:
- - Physical proposal (image)
- - Logical proposal (PT)
- - Budget (Excel)
- - Documentation (md)
- - Research of prices of the materials and settings, devices characteristics, information for developing the proposal etc.
+    - Physical proposal (image)
+    - Logical proposal (PT)
+    - Budget (Excel)
+    - Documentation (md)
+    - Research of prices of the materials and settings, devices characteristics, information for developing the proposal etc.
 
 
-![Time registration](link here)
+![Time registration]()
 ### Thor Nicolaï
 
 * Creating Logical setup Proposal #2 in Packet Tracer 
@@ -32,31 +32,35 @@
 * Developing the documentation document for Proposal#2
 * Developing the budget for Proposal#2
 
-![Time registration](https://i.imgur.com/tNLupek.png)
+![Time registration])
 ### Mario Verstraeten
 
 * Creating floorplan Proposal #1
 ![](https://i.gyazo.com/8a2839da063c18e1f87cf9e1e162693e.png)
+* Researching Small Business cisco setups
+* Researching information about the hardware and set up prices
+* Developing the documentation document for Proposal#1
+* Developing the budget for Proposal#1
 
 * Looking up the prices of the equipment 
 
-![Time registration](https://i.gyazo.com/86ae5e122a3e1eaca818d8eb8fee324a.png)
+![Time registration]()
 
 ### Tommy Veevaete
 
 * Researching which hardware to use in the logical plan
-* Setting up the hardware 
-* Started planning the IP scheme including VLAN's
-* Started assigning IP's and configuring VLAN's
-
-![Time registration](https://i.imgur.com/1JUmFRr.png)
+* Creating Logical setup Proposal #2 in Packet Tracer 
+* Researching Small Business cisco setups
+* Researching information about the hardware and set up prices
+* Developing the documentation document for Proposal#2
+* Developing the budget for Proposal#2
+![Time registration]()
 
 ### Núria Palacios Vilajuana
 
 * Creating floorplan Proposal #2
 * Creating Logical setup Proposal #2 in Packet Tracer 
 * Researching Small Business cisco setups
-* Researching information about the hardware charactiristics
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#2
 * Developing the budget for Proposal#2
@@ -65,7 +69,7 @@
 ![](https://i.imgur.com/o4pXeVw.jpg)
  
 
-![Time registration](https://i.imgur.com/poBTbUl.png)
+![Time registration]()
 
 ## What are your goals of next week?
 

@@ -32,7 +32,7 @@
 * Developing the documentation document for Proposal#2
 * Developing the invoice for Proposal#2
 
-![Time registration])
+![Time registration](https://i.imgur.com/wONppGT.png)
 ### Mario Verstraeten
 
 * Creating floorplan Proposal #1
@@ -44,7 +44,7 @@
 
 * Looking up the prices of the equipment 
 
-![Time registration]()
+![Time registration](https://i.imgur.com/tYUfKSj.png)
 
 ### Tommy Veevaete
 
@@ -54,7 +54,7 @@
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#2
 * Developing the invoice for Proposal#2
-![Time registration]()
+![Time registration](https://i.imgur.com/ChtRnw5.png)
 
 ### Núria Palacios Vilajuana
 

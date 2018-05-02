@@ -33,6 +33,7 @@
 * Developing the invoice for Proposal#2
 
 ![Time registration](https://i.imgur.com/wONppGT.png)
+
 ### Mario Verstraeten
 
 * Creating floorplan Proposal #1
@@ -41,7 +42,6 @@
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#1
 * Developing the invoice for Proposal#1
-
 * Looking up the prices of the equipment 
 
 ![Time registration](https://i.imgur.com/tYUfKSj.png)
@@ -54,6 +54,8 @@
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#2
 * Developing the invoice for Proposal#2
+
+
 ![Time registration](https://i.imgur.com/ChtRnw5.png)
 
 ### Núria Palacios Vilajuana
@@ -67,8 +69,6 @@
 * Developing the iinvoice for Proposal#2
 * Developing Tender Proposa#1 and proposal#2
 * Week Report
-
-
  
 
 ![Time registration](https://i.imgur.com/FBB58YA.png)

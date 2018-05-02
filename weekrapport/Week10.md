@@ -17,7 +17,7 @@
 * Assignment 3: for each proposal:
     - Physical proposal (image)
     - Logical proposal (PT)
-    - Budget (Excel)
+    - Invoice (Excel)
     - Documentation (md)
     - Research of prices of the materials and settings, devices characteristics, information for developing the proposal etc.
 
@@ -30,7 +30,7 @@
 * Researching information about the hardware charactiristics
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#2
-* Developing the budget for Proposal#2
+* Developing the invoice for Proposal#2
 
 ![Time registration])
 ### Mario Verstraeten
@@ -40,7 +40,7 @@
 * Researching Small Business cisco setups
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#1
-* Developing the budget for Proposal#1
+* Developing the invoice for Proposal#1
 
 * Looking up the prices of the equipment 
 
@@ -53,7 +53,7 @@
 * Researching Small Business cisco setups
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#2
-* Developing the budget for Proposal#2
+* Developing the invoice for Proposal#2
 ![Time registration]()
 
 ### Núria Palacios Vilajuana
@@ -63,8 +63,9 @@
 * Researching Small Business cisco setups
 * Researching information about the hardware and set up prices
 * Developing the documentation document for Proposal#2
-* Developing the budget for Proposal#2
+* Developing the iinvoice for Proposal#2
 * Developing Tender Proposa#1 and proposal#2
+* Week Report
 
 ![](https://i.imgur.com/o4pXeVw.jpg)
  
@@ -73,38 +74,23 @@
 
 ## What are your goals of next week?
 
-Finishing both proposals and prepare a presentation, also preparing 1 Physical setup for the presentation of it.
+Developing to power point to present both proposals.and preparing the physical implementation of the choosen proposal
 
-### Tommy Veevaete and Mario Verstraeten (By friday)
-* Have connectivity between devices and to the outside
-* Have VoIP working
-* Have WiFi working
-* Finish pricing proposal 2 and create a proper document
 
- ### Thor Nicolaï and Núria Palacios
-* Chose the material to use in the proposal 2
-* Make a budget
-* Digitalize the physical proposal
-
-### General
-* Finish the 2 proposals including:
-- Packet Tracer file with the logical proposal
-- Png file with the physical proposal
-- Excel file with the budget (intallation and monthly)
-- md file with the documentation
-
+### Tommy Veevaete and Thor Nicolaï
 * Prepare the physical implementation of the choosen proposal
 
+### Mario Verstraeten and Núria Palacios
+* Developing to power point to present both proposals.
+
+### General
+
+
 ## Can you specify your current issues and problems?
-Tommy: * Unclear how I am going to combine DHCP, VLAN and Wireless. Need to do more research and testing
 
 ## Feedback technical tutors
 
 ### General
-
-Assignment 03: alternatives should not immediatly deal with different network topologies, but could vary in the types of equipment.
-
-Reviewed SAP manuals, set-up is automated.
 
 ### Thor Nicolaï
 ### Mario Verstraeten

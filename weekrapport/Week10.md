@@ -71,7 +71,7 @@
 
  
 
-![Time registration](https://i.imgur.com/xNoc1LT.png)
+![Time registration](https://i.imgur.com/FBB58YA.png)
 
 ## What are your goals of next week?
 

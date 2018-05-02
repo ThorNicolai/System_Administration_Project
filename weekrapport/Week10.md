@@ -14,13 +14,12 @@
 
 ### General
 
-* Assignment 3:
-for each proposal:
-- Physical proposal (image)
-- Logical proposal (PT)
-- Budget (Excel)
-- Documentation (md)
-- Research of prices of the materials and settings, devices characteristics, information for developing the proposal etc.
+* Assignment 3: for each proposal:
+ - Physical proposal (image)
+ - Logical proposal (PT)
+ - Budget (Excel)
+ - Documentation (md)
+ - Research of prices of the materials and settings, devices characteristics, information for developing the proposal etc.
 
 
 ![Time registration](link here)

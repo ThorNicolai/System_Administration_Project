@@ -68,10 +68,10 @@
 * Developing Tender Proposa#1 and proposal#2
 * Week Report
 
-![](
+
  
 
-![Time registration]()
+![Time registration](https://i.imgur.com/xNoc1LT.png)
 
 ## What are your goals of next week?
 

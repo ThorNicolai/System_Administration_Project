@@ -15,7 +15,7 @@
 ### General
 
 * Assignment 3:
-from each proposal:
+for each proposal:
 - Physical proposal (image)
 - Logical proposal (PT)
 - Budget (Excel)
@@ -28,6 +28,10 @@ from each proposal:
 
 * Creating Logical setup Proposal #2 in Packet Tracer 
 * Researching Small Business cisco setups
+* Researching information about the hardware charactiristics
+* Researching information about the hardware and set up prices
+* Developing the documentation document for Proposal#2
+* Developing the budget for Proposal#2
 
 ![Time registration](https://i.imgur.com/tNLupek.png)
 ### Mario Verstraeten
@@ -51,8 +55,16 @@ from each proposal:
 ### Núria Palacios Vilajuana
 
 * Creating floorplan Proposal #2
+* Creating Logical setup Proposal #2 in Packet Tracer 
+* Researching Small Business cisco setups
+* Researching information about the hardware charactiristics
+* Researching information about the hardware and set up prices
+* Developing the documentation document for Proposal#2
+* Developing the budget for Proposal#2
+* Developing Tender Proposa#1 and proposal#2
+
 ![](https://i.imgur.com/o4pXeVw.jpg)
- * Looking up the prices of the equipment 
+ 
 
 ![Time registration](https://i.imgur.com/poBTbUl.png)
 

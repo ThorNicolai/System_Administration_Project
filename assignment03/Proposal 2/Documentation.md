@@ -34,5 +34,5 @@ The Cisco 7960G IP Phone is a complete telephone to make calls to the network to
 The conference room designed to be used for meetings between the employees and for meetings with customers. It is equiped with a beamer and a screen, an HDMI cable, 4 ethernet ports and ethernet cable and also an IP phone. It also have wifi access, both to the network for employees and for guests.
 
 ### Cloud / Telecommuting
-To make telecommuting as easy and  as accessible as possible we would like to propose using the [Office 365 Business Premium](https://products.office.com/en-gb/business/office-365-business-premium) package, this allows for all licensed users to have up to 1TB of cloud storage. This also allows for the company to have a professional email address with their own personal extension (eg. CEO@companyX.com). And many more is included.. 
-All these features and the storage can be managed individually for every user at any point in time, no IT expertise required.
+To make telecommuting as easy and  as accessible as possible we would like to propose using the [Office 365 Business Premium](https://products.office.com/en-gb/business/office-365-business-premium) package, this allows all licensed users to have up to 1TB of cloud storage. This also allows the company to have a professional email address with their own personal extension (eg. CEO@companyX.com) and access to the latest office apps for PC among others. 
+All these features and the storage can be managed individually for every user at any point in time, no IT expertise is required.

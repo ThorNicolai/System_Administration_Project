@@ -35,7 +35,7 @@
 * Checking the Power Pont
 * Research on Assignment 4
 
-![Time registration](https://imgur.com/a/F2PqdH1)
+![Time registration](https://i.imgur.com/TzpBzqX.png)
 
 ### Núria Palacios Vilajuana
 

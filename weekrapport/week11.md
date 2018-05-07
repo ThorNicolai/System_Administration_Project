@@ -28,20 +28,20 @@
 * Making the Power Point
 * Research on Assignment 4
 
-![Time registration](link here)
+![Time registration](https://i.imgur.com/cs0tVpw.png)
 
 ### Tommy Veevaete
 
 * Checking the Power Pont
 * Research on Assignment 4
 
-![Time registration](link here)
+![Time registration](https://imgur.com/a/F2PqdH1)
 
 ### Núria Palacios Vilajuana
 
 * Making the Power Point
 
-![Time registration](link here)
+![Time registration](https://i.imgur.com/rpmzunJ.png)
 
 ## What are your goals of next week?
 

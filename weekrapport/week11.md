@@ -5,10 +5,10 @@
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| Thor Nicolaï |          |         |
-| Mario Verstraeten |          |         |
-| Tommy Veevaete |          |         |
-| Núria Palacios Vilajuana |          |         |
+| Thor Nicolaï |  v       |         |
+| Mario Verstraeten |  v       |         |
+| Tommy Veevaete |  v       |         |
+| Núria Palacios Vilajuana |   v      |         |
 
 ## What have you realised this week?
 
@@ -66,6 +66,12 @@ We will start work on the 4th assignment.
 ## Feedback technical tutors
 
 ### General
+
+Assignment 3 has been finished.
+Well prepared presentation.
+Documentation has been well structured for this assignment.
+
+
 
 ### Thor Nicolaï
 ### Mario Verstraeten

@@ -19,29 +19,32 @@
 ![Time registration](link here)
 ### Thor Nicolaï
 
-* Nothing to report
+* Checking the Power Pont
 
 
 ![Time registration](link here)
 ### Mario Verstraeten
 
-* ...
+* Making the Power Point
+* Research on Assignment 4
 
 ![Time registration](link here)
 
 ### Tommy Veevaete
 
-* Nothing to report.
+* Checking the Power Pont
+* Research on Assignment 4
 
 ![Time registration](link here)
 
 ### Núria Palacios Vilajuana
 
-* ...
+* Making the Power Point
 
 ![Time registration](link here)
 
 ## What are your goals of next week?
+
 
 ### General
 
@@ -55,7 +58,7 @@ We will start work on the 4th assignment.
 ## Can you specify your current issues and problems?
 
 
-* ...
+* We didn't have any issues or problems.
 
 ## Feedback technical tutors
 

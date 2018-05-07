@@ -19,8 +19,11 @@
 ![Time registration](link here)
 ### Thor Nicolaï
 
-* Checking the Power Pont
+* Checking the Power Point
+* Research on Assignment 4
 
+
+![Time](https://i.imgur.com/CFu3FPx.png)
 
 ![Time registration](link here)
 ### Mario Verstraeten

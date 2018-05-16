@@ -31,15 +31,16 @@
 ![Time registration]()
 
 ### Núria Palacios Vilajuana
+- Set up Windows Server for Deployment
+- Documentation for the Set up Windows Server for Deployment
 
+![Time registration](https://i.imgur.com/cxzuwLX.png)
 
 
 ## What are your goals of next week?
 
-
 ### General
 
-We will start work on the 4th assignment.
 
 ### Thor Nicolaï
 ### Mario Verstraeten
@@ -48,7 +49,7 @@ We will start work on the 4th assignment.
 
 ## Can you specify your current issues and problems?
 
-* We didn't have any issues or problems.
+* It was a very difficult task to split the work. In most cases the work meeded to be done from the same PC.
 
 ## Feedback technical tutors
 

@@ -50,7 +50,7 @@
 
 ## Can you specify your current issues and problems?
 
-* It was a very difficult task to split the work. In most cases the work meeded to be done from the same PC.
+* It was a very difficult task to split the work. In most cases the work needed to be done from the same PC.
 
 ## Feedback technical tutors
 

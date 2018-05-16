@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- A Windows Server with all the necessary features is available, click  [here](https://github.com/HoGentTIN/p2ops-i01) for a guide
+- A Windows Server with all the necessary features is available, click  [here](https://github.com/HoGentTIN/p2ops-i01/blob/master/assignment04/Documentation/Set%20up%20Windows%20Server.md) for a guide
 - Windows ADK & Microsoft Deployment Toolkit is installed on the deployment server
 - A clean install *.iso* file from Windows 10 operating system is downloaded on the server
 - All the prefered applications are available in .*msi* format to be installed 

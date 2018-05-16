@@ -1,7 +1,7 @@
 # Progress report week 12
 
 * Group : p2ops-io1
-* Date  : 14/06/2018
+* Date  : 14/05/2018
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
@@ -17,6 +17,7 @@
 
 ![Time registration](link here)
 ### Thor Nicolaï
+- 
 
 
 ![Time registration](link here)

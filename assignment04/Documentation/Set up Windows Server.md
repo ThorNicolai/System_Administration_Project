@@ -1,0 +1,39 @@
+
+### SET UP A WINDOWS SERVER FOR AUTOMATIC DEPLOYMENT
+
+For our windows server we chose Windows Server 2012
+- Instal Oracle VM Virtual Box in your PC
+
+##### Set up Server:
+-  Create a new VM 
+	-  Chose Windows Server 2012 (64 bit)
+	- Name it "Server"
+	- There's no need to change the default memory if your VM
+	- Click next untill this window is finished
+- Go to settings-> storage->  and chose the directory where you want to save your VM
+- Select your VM and click start to the athomatic install
+	- Choose the option "Custom install"
+- Once installed Log in
+- Click the Foulder in the desktop bottom menu
+	- Right click on MyPC -> properties 
+	- Click "Change Settings" and rename your PC to "Server"
+- Open the Server Manager
+	- Click ->Manage-> Add roles and feautres
+	- Click next until the Server Roles tab and then check the box for: "Active Directory Domain Services" and install it
+	- Repeat the previous step for: DHCP Server, DNS, AD DS and WDS
+- Open the deployment config and enter a domain ex:"lemspa.net"
+- Reboot your VM
+	 - Click the Foulder in the desktop bottom menu
+	- Right click on MyPC -> properties 
+	- Go to "Network adn Sharing Center"
+	- Click  "Change adapting settings"
+	- Right click on the "ethernet" -> propietries
+	-	Click on IPV4 and configure the network:
+				- IP: 192.168.0.10/24
+				-	DNS server: 127.0.0.1
+- Go to Oracle VM Virtual Box Manager, select your Server, left click -> settings
+	-	Select Network on the left menu
+	- change NAT for Internat Network
+
+Another option is following this youtube tutorial: [
+Youtube link](https://www.youtube.com/watch?v=xxKmakXetv4)

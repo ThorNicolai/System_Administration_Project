@@ -1,6 +1,6 @@
 ## Read me
 
-In the [Documentation](https://github.com/HoGentTIN/p2ops-i01/tree/master/assignment04/Documentation) you can find all the necessary information to setup and run your own Deployment Server.
+In the [Documentation](https://github.com/HoGentTIN/p2ops-i01/tree/master/assignment04/Documentation) you can find all the necessary information to set up and run your own Deployment Server.
 
 Because there were some files exceeding the limit of upload such as the Application .msi files and the .iso files for the Server and the Workstation, we uploaded them to [Google Drive](https://drive.google.com/drive/folders/1QJqkOxRT0VLe8C8_qmhyIxu65_FWA7zQ?usp=sharing).
 

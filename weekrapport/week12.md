@@ -13,14 +13,20 @@
 ## What have you realised this week?
 
 ### General
-
+Finish assignment 4.
 
 ![Time registration](link here)
 ### Thor Nicolaï
-- 
 
+- Obtain all the necessary installation media, .iso/.msi files
+- Create a boot image with MDT
+- Install Windows Deployment Services feature
+- Configure WDS PXE server
+- Test deployment
+- Write documentation for setting up the MDT image and configuring the WDS and PXE server 
+- Write a testplan
 
-![Time registration](link here)
+![Time registration](https://i.imgur.com/uFLvZaa.png)
 ### Mario Verstraeten
 
 

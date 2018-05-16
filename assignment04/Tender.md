@@ -25,10 +25,11 @@
 
 | Student  | Estimate | Effective |
 | :---     |    ---:  |      ---: |
-| student1 |          |           |
-| student2 |          |           |
-| student3 |          |           |
-| student4 |          |           |
+| Thor |       20   |     17.5      |
+| Tommy |          |           |
+| Nuria |          |           |
+| Mario  |          |           |
 
 
 [Add a screenshot of your recorded effective time spending once the assignment has been deliverd and hence finished.]
+![Time](https://i.imgur.com/uFLvZaa.png)

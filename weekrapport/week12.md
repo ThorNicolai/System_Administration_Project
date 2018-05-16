@@ -34,8 +34,9 @@ Finish assignment 4.
 
 ### Tommy Veevaete
 
-
-![Time registration]()
+- Attempted to set up a network and use MDT
+- Stopped when Thor and Núria made more advancement after I fixed Thor's Windows image problem 
+![Time registration](https://i.imgur.com/0VmQbIE.png)
 
 ### Núria Palacios Vilajuana
 - Set up Windows Server for Deployment
@@ -56,7 +57,7 @@ Finish assignment 4.
 
 ## Can you specify your current issues and problems?
 
-* It was a very difficult task to split the work. In most cases the work needed to be done from the same PC.
+* It was a very difficult task to split the work. In most cases the work needed to be done from the same machine, and the work itself can't simply be divided since it's one process that's futile to divide.
 
 ## Feedback technical tutors
 

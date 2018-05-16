@@ -1,20 +1,24 @@
-# Tender Assignment 1: [title]
+# Tender Assignment 4: Microsoft Deployment Toolki
 
-* Responsible completion : [studentX]
-* Responsible testing    : [studentY]
+* Responsible completion : Thor Nicolaï, Tommy Veevaete, Núria Palacios Vilajuana, Mario Verstraeten
+* Responsible testing    : 
 
 ## Deliverables
 
-[Sum up the results that you expect to follow form this assignment. Then delete this explanation.]
-
-* ...
-
+* Proof-of-concept of the automatic deployment of software within a Windows client environment.
+* Manuals of all the configurations
+* List of Software
 
 ## Partims
 
-[Sum up the partial tasks that you identify for this assignment, and link to possible Github issues. You can indicate dependencies between partial tasks]
-
-* ...
+* Setting up a Active Directory, DC
+* Install the DHCP feature and configure DNS
+* Install both the Windows ADK and Microsoft Deployment Toolkit
+* Obtain all the necessary installation media, .iso/.msi files
+* Create a boot image with MDT
+* Install Windows Deployment Services feature
+* Configure WDS PXE server
+* Test deployment
 
 
 ## Time spending

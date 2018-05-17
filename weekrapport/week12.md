@@ -28,9 +28,11 @@ Finish assignment 4.
 
 ![Time registration](https://i.imgur.com/uFLvZaa.png)
 ### Mario Verstraeten
+- Create Testreport SAP
+- Installation documentation .msi files
 
 
-![Time registration]()
+![Time registration](https://i.gyazo.com/c58e2a15fed1d46542bd3d73aa263a71.png)
 
 ### Tommy Veevaete
 

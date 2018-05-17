@@ -28,7 +28,7 @@
 | Thor |       20   |     17.5      |
 | Tommy |       5   |        13   |
 | Nuria |      11    |     9.5      |
-| Mario  |          |           |
+| Mario  |     3     |     3      |
 
 
 [Add a screenshot of your recorded effective time spending once the assignment has been deliverd and hence finished.]

@@ -34,3 +34,4 @@
 [Add a screenshot of your recorded effective time spending once the assignment has been deliverd and hence finished.]
 ![Time](https://i.imgur.com/uFLvZaa.png)
 ![Time registration](https://i.imgur.com/cxzuwLX.png)
+![Time](https://i.imgur.com/kY3efmS.png)

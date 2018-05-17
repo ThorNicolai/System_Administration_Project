@@ -26,7 +26,7 @@
 | Student  | Estimate | Effective |
 | :---     |    ---:  |      ---: |
 | Thor |       20   |     17.5      |
-| Tommy |          |           |
+| Tommy |       5   |        13   |
 | Nuria |          |           |
 | Mario  |          |           |
 

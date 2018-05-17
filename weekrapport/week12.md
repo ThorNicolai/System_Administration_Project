@@ -5,10 +5,10 @@
 
 | Student  | Presence | Remarks |
 | :---     | :---     | :---    |
-| Thor Nicolaï |         |         |
-| Mario Verstraeten |         |         |
-| Tommy Veevaete |         |         |
-| Núria Palacios Vilajuana |         |         |
+| Thor Nicolaï |  v       |         |
+| Mario Verstraeten |  v       |         |
+| Tommy Veevaete |  v       |         |
+| Núria Palacios Vilajuana |   v      |         |
 
 ## What have you realised this week?
 
@@ -64,6 +64,17 @@ Finish assignment 4.
 ## Feedback technical tutors
 
 ### General
+
+Cleanup previous assignments:
+02.testrepport SAP OK
+03.tender not OK
+03.logical topologies verified + working PT files checked (without NAT, NAT only used in real set-up.
+
+MDT assignment:
+* good working
+* documentation is adequate
+* a "user guideline" is confused with the technical documentation
+* Remark: nice video demonstration
 
 
 ### Thor Nicolaï

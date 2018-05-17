@@ -71,7 +71,7 @@ Assignment 3 has been finished.
 Well prepared presentation.
 Documentation has been well structured for this assignment.
 
-
+During class: successful NAT set-up
 
 ### Thor Nicolaï
 ### Mario Verstraeten
